@@ -1,2 +1,1 @@
-# canadream_radio
-CanaDream for ETS2/ATS Local Radio
+**CanaDream for ETS2/ATS Local Radio**
