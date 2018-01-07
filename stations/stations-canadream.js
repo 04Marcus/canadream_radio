@@ -964,7 +964,7 @@ var stations = {
 	    },
 		{
 			name: "CBC Radio One",
-            logo: "stations/images-america/canadream/moncton/CBC Radio One Moncton CBAM.png",
+            logo: "stations/images-america/canadream/moncton/CBC Radio One Montreal CBMI.png",
             url: "http://cbc_r1_mct.akacast.akamaistream.net/7/383/451661/v1/rc.akacast.akamaistream.net/cbc_r1_mct"
 	    },
 		{
@@ -974,10 +974,168 @@ var stations = {
 	    },
 	],
 "montreal": [
+		{
+            name: "TSN 690 Montréal",
+            logo: "stations/images-america/canadream/montreal/TSN 690 Montreal.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMAAC.aac"
+        },	
+		{
+            name: "Radio Circulation 730 AM",
+            logo: "stations/images-america/canadream/montreal/Radio Circulation 730 AM.PNG",
+            url: "http://icecast.cogecomedia.com:8000/ckac.mp3"
+        },
+		{
+            name: "Newstalk 800 AM",
+            logo: "stations/images-america/canadream/montreal/CJAD 800.jpg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CJADAMAAC.aac"
+        },
+		{
+            name: "CJMS Le 1040 AM",
+            logo: "stations/images-america/canadream/montreal/CJMS Le 1040 AM.PNG",
+            url: "http://cjms1040.ca:8860/;stream.mp3"
+        },
+		{
+            name: "AM 980",
+            logo: "stations/images-america/canadream/montreal/AM 980.png",
+            url: "http://ice10.securenetsystems.net/CHRF"
+        },
+		{
+            name: "CFMB 1280 AM",
+            logo: "stations/images-america/canadream/montreal/CFMB 1280 AM.png",
+            url: "http://ice41.securenetsystems.net/CFMB"
+        },
+		{
+            name: "CPAM 1410",
+            logo: "stations/images-america/canadream/montreal/CPAM 1410.png",
+            url: "http://s1.voscast.com:7538/;"
+        },
+		{
+            name: "Radio Middle East 1450 AM",
+            logo: "stations/images-america/canadream/montreal/Radio Middle East 1450 AM.png",
+            url: "http://s2.voscast.com:7386/;"
+        },
+		{
+            name: "Radio Humsafar 1610 AM",
+            logo: "stations/images-america/canadream/montreal/Radio Humsafar 1610 AM.jpg",
+            url: "http://ice3.securenetsystems.net/HUMSAFAR"
+        },
+		{
+            name: "La Radio Gospel 1650 AM",
+            logo: "stations/images-america/canadream/montreal/La Radio Gospel 1650 AM.jpg",
+            url: "http://192.99.13.54:8128/;"
+        },
+		{
+            name: "CJLO 1690 AM",
+            logo: "stations/images-america/canadream/montreal/CJLO 1690 AM.jpg",
+            url: "http://rosetta.shoutca.st:8883/stream"
+        },
         {
+            name: "CBC Radio One",
+            logo: "stations/images-america/canadream/montreal/CBC Radio One Montreal CBMI.png",
+            url: "http://cbc_r1_mtl.akacast.akamaistream.net/7/35/451661/v1/rc.akacast.akamaistream.net/cbc_r1_mtl"
+        },
+		{
+            name: "CISM 89.3 FM",
+            logo: "stations/images-america/canadream/montreal/CISM 89.3 FM.png",
+            url: "http://stream03.ustream.ca/cism128.mp3"
+        },
+		{
+            name: "CKUT 90.3 FM",
+            logo: "stations/images-america/canadream/montreal/CKUT 90.3 FM.png",
+            url: "http://icecast.ckut.ca/903fm-192-stereo"
+        },   
+		{
+            name: "La Voix de St-Lo",
+            logo: "stations/images-america/canadream/montreal/La Voix de St-Lo.jpg",
+            url: "http://195.154.185.139/radio/11310/stream/22574"
+        },
+		{
+            name: "Radio VM 91.3 FM",
+            logo: "stations/images-america/canadream/montreal/Radio VM.png",
+            url: "http://192.240.102.130:7601/stream"
+        },
+		{
+            name: "91.9 Sports",
+            logo: "stations/images-america/canadream/montreal/91.9 Sports.jpg",
+            url: "http://icecast-cklx.rncm.ca/cklx.mp3"
+        },
+		{
+            name: "92.5 The Beat",
+            logo: "stations/images-america/canadream/montreal/92.5 The Beat.png",
+            url: "http://icecast.cogecomedia.com:8000/ckbe.mp3"
+        },		
+		{
+            name: "CBC Radio 2",
+            logo: "stations/images-america/canadream/CBC Radio Two.png",
+            url: "http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
+        },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2qmtl0.akacast.akamaistream.net/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0"
+        },		
+		{
+            name: "CKOI 96.9",
+            logo: "stations/images-america/canadream/montreal/CKOI 96.9.png",
+            url: "http://icecast.cogecomedia.com:8000/ckoi.mp3"
+        },	 
+		{
+            name: "CHOM 97.7",
+            logo: "stations/images-america/canadream/montreal/CHOM 97.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFM_SC"
+        },	
+		{
+            name: "98.5 FM",
+            logo: "stations/images-america/canadream/montreal/98.5 FM.jpg",
+            url: "http://icecast.cogecomedia.com:8000/chmp.mp3"
+        },	
+		{
+            name: "Radio Classique 99.5 FM",
+            logo: "stations/images-america/canadream/montreal/Radio Classique.png",
+            url: "http://stream.statsradio.com:8030/stream"
+        },		
+		{
+            name: "Ici Musique",
+            logo: "stations/images-america/canadream/Ici Musique.jpg",
+            url: "http://7QMTL0.akacast.akamaistream.net:80/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0"
+        },	 		
+		{
+            name: "CIBL 101.5 | La radio indépendante de Montréal",
+            logo: "stations/images-america/canadream/montreal/CIBL 101.5.PNG",
+            url: "http://stream02.ustream.ca/cibl128.mp3"
+        },
+		{
+            name: "radio centre-ville 102.3 FM",
+            logo: "stations/images-america/canadream/montreal/radio centre-ville 102.3 FM.png",
+            url: "http://mediacast.b2b2c.ca:8010/;"
+        },
+		{
+            name: "105.1 Mike FM",
+            logo: "stations/images-america/canadream/montreal/105.1 Mike FM.png",
+            url: "http://198.50.204.108:9300/;"
+        },
+		{
+            name: "rythme 105.7",
+            logo: "stations/images-america/canadream/montreal/rythme 105.7.jpg",
+            url: "http://icecast.cogecomedia.com:8000/cfgl.mp3"
+        },
+		{
+            name: "106.3 CKIN FM",
+            logo: "stations/images-america/canadream/montreal/106.3 CKIN FM.png",
+            url: "http://ice64.securenetsystems.net/CKIN"
+        },
 	],
 "nakina": [
         {
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/thunderbay/CBC Radio One Thunder Bay CBQT.png",
+            url: "http://edge29205.icecast.akadns.net/7/245/451661/v1/rc.akacast.akamaistream.net/cbc_r1_tba"
+	    },
+		{
+            name: "CFNO 107.1 FM",
+            logo: "stations/images/canadream/marathon/CFNO 93.1 FM.jpg",
+            url: "http://cfno.streamon.fm:8000/CFNO-32k.aac"
+        },
 	],
 "ottawa": [
         {
