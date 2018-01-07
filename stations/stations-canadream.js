@@ -174,7 +174,7 @@ var stations = {
 "dryden": [
         {
 			name: "CBC Radio One",
-            logo: "stations/images-america/canadream/vancouver/CBC Radio One Thunder Bay CBQT.png",
+            logo: "stations/images-america/canadream/thunderbay/CBC Radio One Thunder Bay CBQT.png",
             url: "http://edge29205.icecast.akadns.net/7/245/451661/v1/rc.akacast.akamaistream.net/cbc_r1_tba"
 	    },
 		{
@@ -771,31 +771,207 @@ var stations = {
 	    },
 	],
 "labradorcity": [
-        { 
+        {
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2qrim0.akacast.akamaistream.net/7/924/177397/v1/rc.akacast.akamaistream.net/2QRIM0"
+        },
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/labradorcity/CBC Radio One Labrador City CBDQ.png",
+            url: "http://cbc_r1_ott.akacast.akamaistream.net/7/613/451661/v1/rc.akacast.akamaistream.net/cbc_r1_ott"
+	    },
+		{
+			name: "Big Land - Labrador's FM",
+            logo: "stations/images-america/canadream/labradorcity/Big Land - Labrador's FM.jpg",
+            url: "http://newcap.leanstream.co/CFLNFM"
+	    },
+		{
+			name: "98.1 CHFI",
+            logo: "stations/images-america/canadream/labradorcity/98.1 CHFI.png",
+            url: "http://tor981.akacast.akamaistream.net/7/550/80872/v1/rogers.akacast.akamaistream.net/tor981"
+	    },
+		{
+			name: "103.9 CISN Country",
+            logo: "stations/images-america/canadream/labradorcity/98.1 CHFI.png",
+            url: "http://live.leanstream.co/CISNFM"
+	    },
 	],
 "laclabiche": [
         {
+			name: "CFWE 98.5",
+            logo: "stations/images-america/canadream/laclabiche/CFWE 98.5.jpg",
+            url: "http://live.leanstream.co/CFWEFM"
+	    },
+		{
+			name: "boom 103.5",
+            logo: "stations/images-america/canadream/laclabiche/boom 103.5.png",
+            url: "http://newcap.leanstream.co/CILBFM"
+	    },
 	],
 "latuque": [
         {
+			name: "97.1 FM",
+            logo: "stations/images-america/canadream/latuque/97.1 FM.png",
+            url: "http://newcap.leanstream.co/CILBFM"
+	    },
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
+            url: "http://cbc_r1_qqu.akacast.akamaistream.net/7/29/451661/v1/rc.akacast.akamaistream.net/cbc_r1_qqu"
+	    },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2qmtl0.akacast.akamaistream.net/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0"
+        },
 	],
 "lloydminster": [
         {
+			name: "Real Country 95.9",
+            logo: "stations/images-america/canadream/lloydminster/Real Country 95.9.png",
+            url: "http://newcap.leanstream.co/CKSAFM"
+	    },
+		{
+            name: "CKUA Radio Network",
+            logo: "stations/images/canadream/CKUA Radio Network.png",
+            url: "http://ckua.streamon.fm:8000/CKUA-48k.aac"
+        },
+		{
+			name: "106.1 The Goat",
+            logo: "stations/images-america/canadream/lloydminster/106.1 The Goat.png",
+            url: "http://s1.hotdogradio.com/CKLM"
+	    },
 	],
 "maniwaki": [
         {
+			name: "CBC Radio One 710 AM",
+            logo: "stations/images-america/canadream/princegeorge/CBC Radio One Prince George CBYG.png",
+            url: "http://cbc_r1_ott.akacast.akamaistream.net/7/613/451661/v1/rc.akacast.akamaistream.net/cbc_r1_ott"
+	    },
+		{
+            name: "Ici Radio-Canada Première 990 AM",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2oott0.akacast.akamaistream.net/7/749/177394/v1/rc.akacast.akamaistream.net/2OOTT0"
+        },
+		{
+			name: "97.3 CHGA",
+            logo: "stations/images-america/canadream/maniwaki/97.3 CHGA.png",
+            url: "http://stream02.ustream.ca/chga128.mp3"
+	    },
+		{
+			name: "CKWE 103.9",
+            logo: "stations/images-america/canadream/maniwaki/CKWE 103.9.png",
+            url: "http://stream03.ustream.ca/kitiganzibi128.mp3"
+	    },
 	],
 "maplecreek": [
         {
+			name: "Chat 94.5",
+            logo: "stations/images-america/canadream/maplecreek/Chat 94.5.png",
+            url: "http://ais.streamon.fm:8000/ais/CHAT-48k.aac"
+	    },
 	],
 "marathon": [
         {
+            name: "CFNO 93.1 FM",
+            logo: "stations/images/canadream/marathon/CFNO 93.1 FM.jpg",
+            url: "http://cfno.streamon.fm:8000/CFNO-32k.aac"
+        },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2osub0.akacast.akamaistream.net/7/339/177401/v1/rc.akacast.akamaistream.net/2OSUB0"
+        },
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/thunderbay/CBC Radio One Thunder Bay CBQT.png",
+            url: "http://edge29205.icecast.akadns.net/7/245/451661/v1/rc.akacast.akamaistream.net/cbc_r1_tba"
+	    },
 	],
 "matane": [
         {
+            name: "O 95.3",
+            logo: "stations/images/canadream/matane/O 95.3.png",
+            url: "http://stream.statsradio.com:8026/stream"
+        },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2qrim0.akacast.akamaistream.net/7/924/177397/v1/rc.akacast.akamaistream.net/2QRIM0"
+        },
+		{
+            name: "plaisir 105.3",
+            logo: "stations/images/canadream/matane/plaisir 105.3.png",
+            url: "http://stream.statsradio.com:8028/stream"
+        },
+		{
+			name: "Ici Musique 107.5 FM",
+            logo: "stations/images-america/canadream/Ici Musique.jpg",
+            url: "http://7qrim0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0"
+	    },
 	],
 "moncton": [
         {
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2emct0.akacast.akamaistream.net/7/750/177393/v1/rc.akacast.akamaistream.net/2EMCT0"
+        },
+		{
+            name: "BO-FM",
+            logo: "stations/images/canadream/moncton/BO-FM.png",
+            url: "http://s6.voscast.com:9914/;"
+        },
+		{
+            name: "91.9 The Bend",
+            logo: "stations/images/canadream/moncton/91.9 The Bend.png",
+            url: "http://ckni.streamon.fm:8000/CKNI-48k.aac"
+        },
+		{
+            name: "K94.5",
+            logo: "stations/images/canadream/moncton/K94.5.png",
+            url: "http://ckcw.streamon.fm:8000/CKCW-32k.aac"
+        },
+		{
+            name: "CBC Radio 2",
+            logo: "stations/images-america/canadream/CBC Radio Two.png",
+            url: "http://cbc_r2_hfx.akacast.akamaistream.net/7/917/451661/v1/rc.akacast.akamaistream.net/cbc_r2_hfx"
+        },
+		{
+            name: "New Country 96.9",
+            logo: "stations/images/canadream/moncton/New Country 96.9.png",
+            url: "http://newcap.leanstream.co/CJXLFM"
+        },
+		{
+			name: "Choix fm",
+            logo: "stations/images-america/canadream/moncton/Choix fm.png",
+            url: "http://mbsradio.leanstream.co/CHOYFM-MP3"
+	    },
+		{
+			name: "C103",
+            logo: "stations/images-america/canadream/moncton/C103.png",
+            url: "http://newcap.leanstream.co/CJMOFM"
+	    },
+		{
+			name: "103.9 Max FM",
+            logo: "stations/images-america/canadream/moncton/103.9 Max FM.png",
+            url: "http://cfqm.streamon.fm:8000/CFQM-32k.aac"
+	    },
+		{
+			name: "cita 105.1 FM",
+            logo: "stations/images-america/canadream/moncton/cita 105.1 FM.jpg",
+            url: "http://cita.no-ip.biz:8000/;"
+	    },
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/moncton/CBC Radio One Moncton CBAM.png",
+            url: "http://cbc_r1_mct.akacast.akamaistream.net/7/383/451661/v1/rc.akacast.akamaistream.net/cbc_r1_mct"
+	    },
+		{
+			name: "CKOE 107.3 FM",
+            logo: "stations/images-america/canadream/moncton/CKOE 107.3 FM.jpg",
+            url: "http://us2.streamingpulse.com:8110/stream"
+	    },
 	],
 "montreal": [
         {
