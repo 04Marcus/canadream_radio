@@ -1129,7 +1129,7 @@ var stations = {
         {
 			name: "CBC Radio One",
             logo: "stations/images-america/canadream/thunderbay/CBC Radio One Thunder Bay CBQT.png",
-            url: "http://edge29205.icecast.akadns.net/7/245/451661/v1/rc.akacast.akamaistream.net/cbc_r1_tba"
+            url: "http://cbc_r1_tba.akacast.akamaistream.net/7/245/451661/v1/rc.akacast.akamaistream.net/cbc_r1_tba"
 	    },
 		{
             name: "CFNO 107.1 FM",
@@ -1137,8 +1137,113 @@ var stations = {
             url: "http://cfno.streamon.fm:8000/CFNO-32k.aac"
         },
 	],
-"ottawa": [
+"ottawa": [  
         {
+            name: "580 CFRA",
+            logo: "stations/images/canadream/ottawa/580 CFRA.png",
+            url: "http://20263.live.streamtheworld.com/CFRAAMAAC.aac"
+        },
+		{
+            name: "TSN 1200 Ottawa",
+            logo: "stations/images/canadream/ottawa/TSN 1200 Ottawa.png",
+            url: "http://17603.live.streamtheworld.com/CFGOAMAAC.aac"
+        },
+		{
+            name: "1310 News",
+            logo: "stations/images/canadream/ottawa/TSN 1200 Ottawa.png",
+            url: "http://ott1310.akacast.akamaistream.net/7/160/80880/v1/rogers.akacast.akamaistream.net/ott1310"
+        },
+		{
+            name: "Live 88.5 FM",
+            logo: "stations/images/canadream/ottawa/Live 88.5 FM.png",
+            url: "http://newcap.leanstream.co/CILVFM"
+        },
+		{
+            name: "CHUO 89.1 FM",
+            logo: "stations/images/canadream/ottawa/CHUO 89.1 FM.png",
+            url: "http://icecast.isilive.ca:8000/chuo"
+        },
+		{
+            name: "Hot 89.9 FM",
+            logo: "stations/images/canadream/ottawa/CHUO 89.1 FM.png",
+            url: "http://newcap.leanstream.co/CIHTFM"
+        },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2oott0.akacast.akamaistream.net/7/749/177394/v1/rc.akacast.akamaistream.net/2OOTT0"
+        }
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/ottawa/CBC Radio One Ottawa CBO.png",
+            url: "http://cbc_r1_ott.akacast.akamaistream.net/7/613/451661/v1/rc.akacast.akamaistream.net/cbc_r1_ott"
+	    },
+		{
+            name: "CKCU FM 93.1",
+            logo: "stations/images/canadream/ottawa/CKCU FM 93.1.png",
+            url: "http://livestream.ckcufm.com/ckcu.mp3"
+        },
+		{
+            name: "94.5 unique FM",
+            logo: "stations/images/canadream/ottawa/94.5 unique FM.jpg",
+            url: "http://stream03.ustream.ca:8000/cjfofm128.mp3"
+        },
+		{
+            name: "CHIN 97.9 FM",
+            logo: "stations/images/canadream/ottawa/CHIN 97.9 FM.jpg",
+            url: "http://ice7.securenetsystems.net/CJLLFM"
+        },
+		{
+            name: "Jewel 98.5 FM",
+            logo: "stations/images/canadream/ottawa/Jewel 98.5 FM.png",
+            url: "http://ice2.securenetsystems.net/CJWL?type=.mp3/;stream.mp3"
+        },
+		{
+            name: "CHRI",
+            logo: "stations/images/canadream/ottawa/CHRI.png",
+            url: "http://chrica-lol.dyndns.org:8000/xstream"
+        },
+		{
+            name: "boom 99.7",
+            logo: "stations/images/canadream/ottawa/boom 99.7.png",
+            url: "https://live.leanstream.co/CJOTFM"
+        },
+		{
+            name: "Rebel 101.7",
+            logo: "stations/images/canadream/ottawa/Rebel 101.7.png",
+            url: "http://72.1.219.223/;stream.mp3"
+        },
+		{
+            name: "Ici Musique",
+            logo: "stations/images-america/canadream/Ici Musique.jpg",
+            url: "http://7oott0.akacast.akamaistream.net/7/529/177409/v1/rc.akacast.akamaistream.net/7OOTT0"
+        },
+		{
+            name: "CBC Radio 2",
+            logo: "stations/images-america/canadream/CBC Radio Two.png",
+            url: " 	http://cbc_r2_tor.akacast.akamaistream.net/7/364/451661/v1/rc.akacast.akamaistream.net/cbc_r2_tor"
+        },
+		{
+            name: "Kiss 105.3 FM",
+            logo: "stations/images/canadream/ottawa/Kiss 105.3 FM.png",
+            url: "http://ott1053.akacast.akamaistream.net/7/268/80881/v1/rogers.akacast.akamaistream.net/ott1053.mp3"
+        },
+		{
+            name: "106.1 Chez",
+            logo: "stations/images/canadream/ottawa/106.1 Chez.png",
+            url: "http://ott1061.akacast.akamaistream.net/7/549/80883/v1/rogers.akacast.akamaistream.net/ott1061.mp3"
+        },
+		{
+            name: "jump! 106.9",
+            logo: "stations/images/canadream/ottawa/jump! 106.9.png",
+            url: "https://live.leanstream.co/CKQBFM"
+        },
+		{
+            name: "CKDJ 107.9 FM",
+            logo: "stations/images/canadream/ottawa/CKDJ 107.9 FM.png",
+            url: "http://live.leanstream.co/CKDJFM"
+        },
+		
 	],
 "parrysound": [
         {
