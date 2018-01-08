@@ -1,5 +1,8 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+Update 08.01.:
++ **stations**: streams and logos added for Ottawa - 21 stations in total
+
 Update 07.01.:
 + **stations**: streams and logos added for 10 cities (Labrador City to Montreal) (30 different stations in Montreal (!)) - partially merged with the work from veso266
 
