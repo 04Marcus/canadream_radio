@@ -1,5 +1,8 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+Update 09.01.:
++ **stations**: streams and logos added for Parry Sound, Prince George, Prince Rupert, Québec and Rivière-du-Loup
+
 Update 08.01.:
 + **stations**: streams and logos added for Ottawa - 21 stations in total
 
