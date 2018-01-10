@@ -1373,7 +1373,7 @@ var stations = {
             url: "http://cbc_r2_tor.akacast.akamaistream.net/7/364/451661/v1/rc.akacast.akamaistream.net/cbc_r2_tor"
         },	
 		{
-			name: "CBC Radio One 88.5 FM",
+			name: "CBC Radio One",
             logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
             url: "http://cbc_r1_qqu.akacast.akamaistream.net/7/29/451661/v1/rc.akacast.akamaistream.net/cbc_r1_qqu"
 	    },
@@ -1442,20 +1442,230 @@ var stations = {
 	],
 "regina": [
         {
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/regina/CBC Radio One Regina CBK.png",
+            url: "http://cbc_r1_reg.akacast.akamaistream.net/7/666/451661/v1/rc.akacast.akamaistream.net/cbc_r1_reg"
+	    },
+		{
+			name: "620 CKRM The Source",
+            logo: "stations/images-america/canadream/regina/620 CKRM The Source.png",
+            url: "http://ckrm.streamon.fm:8000/CKRM-48k.aac"
+	    },
+		{
+			name: "980 AM CJME",
+            logo: "stations/images-america/canadream/regina/980 AM CJME.png",
+            url: "http://rawlco.leanstream.co/CJMEAM"
+	    },
+		{
+            name: "Ici Musique",
+            logo: "stations/images-america/canadream/Ici Musique.jpg",
+            url: "http://7mwin0.akacast.akamaistream.net/7/134/177418/v1/rc.akacast.akamaistream.net/7MWIN0"
+        },
+		{
+			name: "MBC Network Radio",
+            logo: "stations/images-america/canadream/regina/MBC Network Radio.jpg",
+            url: "http://cjlr.streamon.fm:8000/CJLR-32k.aac"
+	    },
+		{
+			name: "91.3 FM CJTR",
+            logo: "stations/images-america/canadream/regina/91.3 FM CJTR.png",
+            url: "http://108.178.13.122:8152/;"
+	    },
+		{
+			name: "my 92.1",
+            logo: "stations/images-america/canadream/regina/my 92.1.png",
+            url: "http://chmx.streamon.fm:8000/CHMX-64k.aac"
+	    },
+		{
+			name: "Big Dog 92.7",
+            logo: "stations/images-america/canadream/regina/Big Dog 92.7.jpg",
+            url: "http://20263.live.streamtheworld.com/CHBDFMAAC.aac"
+	    },
+		{
+			name: "Jack 94.5",
+            logo: "stations/images-america/canadream/regina/Jack 94.5.png",
+            url: "http://rawlco.leanstream.co/CKCKFM"
+	    },
+		{
+            name: "CBC Radio 2",
+            logo: "stations/images-america/canadream/CBC Radio Two.png",
+            url: "http://cbc_r2_edm.akacast.akamaistream.net/7/40/451661/v1/rc.akacast.akamaistream.net/cbc_r2_edm"
+        },
+		{
+			name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2sreg0.akacast.akamaistream.net/7/508/177396/v1/rc.akacast.akamaistream.net/2SREG0"
+	    },
+		{
+			name: "Z99",
+            logo: "stations/images-america/canadream/regina/Z99.png",
+            url: "http://rawlco.leanstream.co/CIZLFM"
+	    },
+		{
+			name: "104.9 The Wolf",
+            logo: "stations/images-america/canadream/regina/104.9 The Wolf.png",
+            url: "http://cfwf.streamon.fm:8000/CFWF-64k.aac"
+	    },
 	],
 "rouynnoranda": [
         {
+			name: "88.7 Chic FM",
+            logo: "stations/images-america/canadream/rouynnoranda/88.7 Chic FM.png",
+            url: "http://stream.zoneplus.ca:9952/;"
+	    },
+		{
+            name: "Ici Musique",
+            logo: "stations/images-america/canadream/Ici Musique.jpg",
+            url: "http://7qmtl0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0"
+        },
+		{
+			name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2qrou0.akacast.akamaistream.net/7/542/177398/v1/rc.akacast.akamaistream.net/2QROU0"
+	    },
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
+            url: "http://cbc_r1_qqu.akacast.akamaistream.net/7/29/451661/v1/rc.akacast.akamaistream.net/cbc_r1_qqu"
+	    },
+		{
+			name: "Capitale Rock",
+            logo: "stations/images-america/canadream/rouynnoranda/Capitale Rock.png",
+            url: "http://icecast-chgo.rncm.ca/chgo.mp3"
+	    },
+		{
+			name: "WOW FM",
+            logo: "stations/images-america/canadream/rouynnoranda/WOW FM.png",
+            url: "http://icecast-choa.rncm.ca/choa.mp3"
+	    },
+		{
+			name: "CHUN 98.3 FM",
+            logo: "stations/images-america/canadream/rouynnoranda/CHUN 98.3 FM.png",
+            url: "http://198.50.204.108:9954/;"
+	    },
+		{
+			name: "99.1 Énergie Abitibi",
+            logo: "stations/images-america/canadream/rouynnoranda/99.1 Énergie Abitibi.png",
+            url: "http://18363.live.streamtheworld.com/CJMMFMAAC.aac"
+	    },
 	],
 "russel": [
         {
+			name: "Fox FM",
+            logo: "stations/images-america/canadream/russel/Fox FM.gif",
+            url: "http://cfgw.streamon.fm:8000/CFGW-64k.aac"
+	    },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2mwin0.akacast.akamaistream.net/7/504/177406/v1/rc.akacast.akamaistream.net/2MWIN0"
+        },
 	],
 "saguenay": [
         {
+			name: "CKAJ 92.5 FM",
+            logo: "stations/images-america/canadream/saguenay/CKAJ 92.5 FM.png",
+            url: "http://shaincast.caster.fm:49807/listen.mp3"
+	    },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2qsag0.akacast.akamaistream.net/7/933/177389/v1/rc.akacast.akamaistream.net/2QSAG0"
+        },
+		{
+			name: "94.5 Énergie",
+            logo: "stations/images-america/canadream/saguenay/94.5 Énergie.png",
+            url: "http://17603.live.streamtheworld.com/CJABFMAAC.aac"
+	    },
+		{
+			name: "96.9 Rouge FM",
+            logo: "stations/images-america/canadream/saguenay/96.9 Rouge FM.png",
+            url: "http://16983.live.streamtheworld.com/CFIXFMAAC.aac"
+	    },
+		{
+            name: "Ici Musique",
+            logo: "stations/images-america/canadream/Ici Musique.jpg",
+            url: "http://7qsag0.akacast.akamaistream.net/7/887/177412/v1/rc.akacast.akamaistream.net/7QSAG0"
+        },
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
+            url: "http://cbc_r1_qqu.akacast.akamaistream.net/7/29/451661/v1/rc.akacast.akamaistream.net/cbc_r1_qqu"
+	    },
+		{
+			name: "Radio Galilée 106.7 FM",
+            logo: "stations/images-america/canadream/quebec/Radio Galilee 90.9.jpg",
+            url: "http://192.99.245.110:8000/cionfm.mp3"
+	    },
 	],
 "saskatoon": [
         {
+			name: "CJWW 600",
+            logo: "stations/images-america/canadream/saskatoon/CJWW 600.png",
+            url: "http://14133.live.streamtheworld.com/CJWWAMAAC.aac"
+	    },
+		{
+			name: "650 AM CKOM",
+            logo: "stations/images-america/canadream/saskatoon/650 AM CKOM.png",
+            url: "http://rawlco.leanstream.co/CKOMAM"
+	    },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2sreg0.akacast.akamaistream.net/7/508/177396/v1/rc.akacast.akamaistream.net/2SREG0"
+        },
+		{
+            name: "Ici Musique",
+            logo: "stations/images-america/canadream/Ici Musique.jpg",
+            url: "http://7mwin0.akacast.akamaistream.net/7/134/177418/v1/rc.akacast.akamaistream.net/7MWIN0"
+        },
+		{
+            name: "CFCR 90.5 FM",
+            logo: "stations/images-america/canadream/saskatoon/CFCR 90.5 FM.png",
+            url: "http://onair.cfcr.ca/hifi.mp3"
+        },
+		{
+            name: "92.9 The Bull",
+            logo: "stations/images-america/canadream/saskatoon/92.9 The Bull.png",
+            url: "http://18853.live.streamtheworld.com/CKBLFMAAC.aac"
+        },
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/regina/CBC Radio One Regina CBK.png",
+            url: "http://cbc_r1_reg.akacast.akamaistream.net/7/666/451661/v1/rc.akacast.akamaistream.net/cbc_r1_reg"
+	    },
+		{
+            name: "C95 FM",
+            logo: "stations/images-america/canadream/saskatoon/C95 FM.png",
+            url: "http://rawlco.leanstream.co/CFMCFM"
+        },
+		{
+            name: "96.3 Cruz FM",
+            logo: "stations/images-america/canadream/saskatoon/96.3 Cruz FM.png",
+            url: "http://cfwd.streamon.fm:8000/CFWD-64k.aac"
+        },
+		{
+            name: "98 Cool FM",
+            logo: "stations/images-america/canadream/saskatoon/98 Cool FM.png",
+            url: "http://14223.live.streamtheworld.com/CJMKFMAAC.aac"
+        },
+		{
+            name: "Rock 102 FM",
+            logo: "stations/images-america/canadream/saskatoon/Rock 102 FM.png",
+            url: "http://rawlco.leanstream.co/CJDJFM"
+        },
+		{
+			name: "MBC Network Radio",
+            logo: "stations/images-america/canadream/regina/MBC Network Radio.jpg",
+            url: "http://cjlr.streamon.fm:8000/CJLR-32k.aac"
+	    },
+		{
+            name: "CBC Radio 2",
+            logo: "stations/images-america/canadream/CBC Radio Two.png",
+            url: "http://cbc_r2_wpg.akacast.akamaistream.net/7/233/451661/v1/rc.akacast.akamaistream.net/cbc_r2_wpg"
+        },
 	],
-"saultmarie": [
+"saultmarie": [ 	
         {
 	],
 "septiles": [
