@@ -1667,18 +1667,169 @@ var stations = {
 	],
 "saultmarie": [ 	
         {
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2otor0.akacast.akamaistream.net/7/640/177402/v1/rc.akacast.akamaistream.net/2OTOR0"
+        },
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/sudbury/CBC Radio One Sudbury CBCS.png",
+            url: "http://cbc_r1_sud.akacast.akamaistream.net/7/380/451661/v1/rc.akacast.akamaistream.net/cbc_r1_sud"
+	    },
+		{
+            name: "WJOH Smile FM",
+            logo: "stations/images-america/canadream/saultmarie/WJOH Smile FM.jpg",
+            url: "http://50.7.129.122:8235/smilefm128k.mp3"
+        },
+		{
+            name: "Kiss 100.5",
+            logo: "stations/images-america/canadream/saultmarie/Kiss 100.5.png",
+            url: "http://sau1005.akacast.akamaistream.net/7/879/80888/v1/rogers.akacast.akamaistream.net/sau1005"
+        },
 	],
 "septiles": [
         {
+            name: "Ici Musique",
+            logo: "stations/images-america/canadream/Ici Musique.jpg",
+            url: "http://7qque0.akacast.akamaistream.net/7/171/177410/v1/rc.akacast.akamaistream.net/7QQUE0"
+        },
+		{
+            name: "CKAU",
+            logo: "stations/images-america/canadream/septiles/CKAU.jpg",
+            url: "http://173.236.19.90:8001/stream"
+        },
+		{
+            name: "Pur 94.1",
+            logo: "stations/images-america/canadream/septiles/Pur 94.1.jpg",
+            url: "http://stream.statsradio.com:8034/stream"
+        },
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
+            url: "http://cbc_r1_qqu.akacast.akamaistream.net/7/29/451661/v1/rc.akacast.akamaistream.net/cbc_r1_qqu"
+	    },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2qsep0.akacast.akamaistream.net/7/892/177399/v1/rc.akacast.akamaistream.net/2QSEP0"
+        },
+		
 	],
 "stewart": [
         {
+			name: "CFNR 96.1 FM",
+            logo: "stations/images-america/canadream/CFNR.png",
+            url: "http://nnb.leanstream.co/CFNRFM"
+	    },
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/regina/CBC Radio One Regina CBK.png",
+            url: "http://cbc_r1_reg.akacast.akamaistream.net/7/666/451661/v1/rc.akacast.akamaistream.net/cbc_r1_reg"
+	    },
 	],
 "sudbury": [
         {
+            name: "CBC Radio 2",
+            logo: "stations/images-america/canadream/CBC Radio Two.png",
+            url: "http://cbc_r2_tor.akacast.akamaistream.net/7/364/451661/v1/rc.akacast.akamaistream.net/cbc_r2_tor"
+        },
+		{
+            name: "Ici Musique",
+            logo: "stations/images-america/canadream/Ici Musique.jpg",
+            url: "http://7osub0.akacast.akamaistream.net/7/884/177414/v1/rc.akacast.akamaistream.net/7OSUB0"
+        },
+		{
+			name: "Hot 93.5",
+            logo: "stations/images-america/canadream/sudbury/Hot 93.5.png",
+            url: "http://newcap.leanstream.co/CIGMFM-MP3"
+	    },
+		{
+			name: "KFM Radio",
+            logo: "stations/images-america/canadream/sudbury/KFM Radio.png",
+            url: "http://173.193.205.96:8116/;stream.mp3"
+	    },
+		{
+			name: "CKLU 96.7 FM",
+            logo: "stations/images-america/canadream/sudbury/CKLU 96.7 FM.png",
+            url: "http://ckluradio.laurentian.ca:88/broadwave.mp3"
+	    },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2otor0.akacast.akamaistream.net/7/640/177402/v1/rc.akacast.akamaistream.net/2OTOR0"
+        },
+		{
+			name: "Le Loup",
+            logo: "stations/images-america/canadream/sudbury/Le Loup 98.9.png",
+            url: "http://delicious.wavestreamer.com:9713/stream/1/"
+	    },
+		{
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/sudbury/CBC Radio One Sudbury CBCS.png",
+            url: "http://cbc_r1_sud.akacast.akamaistream.net/7/380/451661/v1/rc.akacast.akamaistream.net/cbc_r1_sud"
+	    },
+		{
+			name: "Rewind 103.9 FM",
+            logo: "stations/images-america/canadream/sudbury/Rewind 103.9 FM.png",
+            url: "http://newcap.leanstream.co/CHNOFM-MP3"
+	    },
 	],
 "thunderbay": [
         {
+			name: "CBC Radio One",
+            logo: "stations/images-america/canadream/thunderbay/CBC Radio One Thunder Bay CBQT.png",
+            url: "http://edge29205.icecast.akadns.net/7/245/451661/v1/rc.akacast.akamaistream.net/cbc_r1_tba"
+	    },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://2otor0.akacast.akamaistream.net/7/640/177402/v1/rc.akacast.akamaistream.net/2OTOR0"
+        },
+		{
+			name: "Information Radio",
+            logo: "stations/images-america/canadream/thunderbay/Information Radio.png",
+            url: "http://78.129.187.73/stream.mp3?ipport=78.129.187.73_16779"
+	    },
+		{
+			name: "91.5 CKPR",
+            logo: "stations/images-america/canadream/thunderbay/91.5 CKPR.png",
+            url: "http://ckpr.streamon.fm:8000/CKPR-32k.aac"
+	    },
+		{
+			name: "Rock 94",
+            logo: "stations/images-america/canadream/thunderbay/Rock 94.png",
+            url: "http://cjsd.streamon.fm:8000/CJSD-48k.aac"
+	    },
+		{
+			name: "UCB Canada",
+            logo: "stations/images-america/canadream/thunderbay/UCB Canada.png",
+            url: "http://s9.viastreaming.net:9575/;"
+	    },
+		{
+			name: "Magic 99.9",
+            logo: "stations/images-america/canadream/thunderbay/Magic 99.9.png",
+            url: "http://cjuk.streamon.fm:8000/CJUK-48k.aac"
+	    },
+		{
+            name: "CBC Radio 2",
+            logo: "stations/images-america/canadream/CBC Radio Two.png",
+            url: "http://cbc_r2_tor.akacast.akamaistream.net/7/364/451661/v1/rc.akacast.akamaistream.net/cbc_r2_tor"
+        },
+		{
+			name: "CILU 102.7 FM",
+            logo: "stations/images-america/canadream/thunderbay/CILU 102.7 FM.png",
+            url: "http://luradio-server.lakeheadu.ca:8000/stereo128.mp3"
+	    },
+		{
+			name: "Energy FM",
+            logo: "stations/images-america/canadream/thunderbay/Energy FM.png",
+            url: "http://cfqk.streamon.fm:8000/CFQK-48k.aac"
+	    },
+		{
+			name: "Country 105",
+            logo: "stations/images-america/canadream/thunderbay/Country 105.png",
+            url: "http://cktg.streamon.fm:8000/CKTG-48k.aac"
+	    },
 	],
 "toronto": [
         {
