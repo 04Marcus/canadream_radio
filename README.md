@@ -1,5 +1,8 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+Update 14.01.:
++ **stations**: finished adding streams and logos 
+
 Update 11.01.:
 + **stations**: streams and logos added for 5 cities - 10 cities left
 
