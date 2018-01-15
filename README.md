@@ -1,7 +1,7 @@
 **CanaDream for ETS2/ATS Local Radio**
 
 Update 15.01.:
-+ **flags**: Flags added - changed filenames to ingame-country names >> Thanks to veso266!
++ **flags**: Flags added - changed filenames to ingame-country names >> Thanks to veso266 for the svg-files!
 
 Update 14.01.:
 + **stations**: finished adding streams and logos 
