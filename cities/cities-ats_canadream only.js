@@ -1,313 +1,375 @@
 var country_properties_canadream = {
-      name: "Baie-Comeau",{
-      name_english: "Baie-Comeau",
-      code: "quebec",
-	  relative_radius: 1.3 
+    "baiecomeau": {
+		name: "Baie-Comeau",
+		name_english: "Baie-Comeau",
+		code: "quebec",
+		relative_radius: 1.3 
     },
-      name: "Calgary",{
-      name_english: "Calgary",
-      code: "alberta",
-	  relative_radius: 1.3 
+	"calgary": {
+		name: "Calgary",
+		name_english: "Calgary",
+		code: "alberta",
+		relative_radius: 1.3 
     },
-      name: "Caraquet",{
-      name_english: "Caraquet",
-      code: "newbrunswi",
-	  relative_radius: 1.3 
+	"caraquet": {
+		name: "Caraquet",
+		name_english: "Caraquet",
+		code: "newbrunswi",
+		relative_radius: 1.3 
     },
-      name: "Chapleau",{
-      name_english: "Chapleau",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"chapleau": {
+		name: "Chapleau",
+		name_english: "Chapleau",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Dawson Creek",{
-      name_english: "Dawson Creek",
-      code: "britcolumb",
-	  relative_radius: 1.3 
+	"dawsoncreek": {
+		name: "Dawson Creek",
+		name_english: "Dawson Creek",
+		code: "britcolumb",
+		relative_radius: 1.3 
     },
-      name: "Dease Lake",{
-      name_english: "Dease Lake",
-      code: "britcolumb",
-	  relative_radius: 1.3 
+	"deaselake": {
+		name: "Dease Lake",
+		name_english: "Dease Lake",
+		code: "britcolumb",
+		relative_radius: 1.3 
     },
-      name: "Dryden",{
-      name_english: "Dryden",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"dryden": {
+		name: "Dryden",
+		name_english: "Dryden",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Edmonton",{
-      name_english: "Edmonton",
-      code: "alberta",
-	  relative_radius: 1.3 
+	"edmonton": {
+		name: "Edmonton",
+		name_english: "Edmonton",
+		code: "alberta",
+		relative_radius: 1.3 
     },
-      name: "Fort Frances",{
-      name_english: "Fort Frances",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"fortfrances": {
+		name: "Fort Frances",
+		name_english: "Fort Frances",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Fort McMurray",{
-      name_english: "Fort McMurray",
-      code: "alberta",
-	  relative_radius: 1.3 
+	"fortmcmurray": {
+		name: "Fort McMurray",
+		name_english: "Fort McMurray",
+		code: "alberta",
+		relative_radius: 1.3 
     },
-      name: "Fort Nelson",{
-      name_english: "Fort Nelson",
-      code: "britcolumb",
-	  relative_radius: 1.3 
+	"fortnelson": {
+		name: "Fort Nelson",
+		name_english: "Fort Nelson",
+		code: "britcolumb",
+		relative_radius: 1.3 
     },
-      name: "Fort Simpson",{
-      name_english: "Fort Simpson",
-      code: "northterrr",
-	  relative_radius: 1.3 
+	"fortsimpson": {
+		name: "Fort Simpson",
+		name_english: "Fort Simpson",
+		code: "northterrr",
+		relative_radius: 1.3 
     },
-      name: "Fredericton",{
-      name_english: "Fredericton",
-      code: "newbrunswi",
-	  relative_radius: 1.3 
+	"fredericton": {
+		name: "Fredericton",
+		name_english: "Fredericton",
+		code: "newbrunswi",
+		relative_radius: 1.3 
     },
-      name: "Gaspe",{
-      name_english: "Gaspe",
-      code: "quebec",
-	  relative_radius: 1.3 
+	"gaspe": {
+		name: "Gaspe",
+		name_english: "Gaspe",
+		code: "quebec",
+		relative_radius: 1.3 
     },
-      name: "Golden",{
-      name_english: "Golden",
-      code: "britcolumb",
-	  relative_radius: 1.3 
+	"golden": {
+		name: "Golden",
+		name_english: "Golden",
+		code: "britcolumb",
+		relative_radius: 1.3 
     },
-      name: "Grand Falls",{
-      name_english: "Grand Falls",
-      code: "newbrunswi",
-	  relative_radius: 1.3 
+	"grandfalls": {
+		name: "Grand Falls",
+		name_english: "Grand Falls",
+		code: "newbrunswi",
+		relative_radius: 1.3 
     },
-      name: "Halifax",{
-      name_english: "Halifax",
-      code: "novascotia",
-	  relative_radius: 1.3 
+	"halifax": {
+		name: "Halifax",
+		name_english: "Halifax",
+		code: "novascotia",
+		relative_radius: 1.3 
     },
-      name: "Hearst",{
-      name_english: "Hearst",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"hearst": { 
+		name: "Hearst",
+		name_english: "Hearst",
+		code: "ontario",
+		relative_radius: 1.3 
 	},
-      name: "High Level",{
-      name_english: "High Level",
-      code: "alberta",
-	  relative_radius: 1.3 
+	"highlevel": {
+		name: "High Level",
+		name_english: "High Level",
+		code: "alberta",
+		relative_radius: 1.3 
     },
-      name: "Houston",{
-      name_english: "Houston",
-      code: "britcolumb",
-	  relative_radius: 1.3 
+	"houstoncan": {
+		name: "Houston",
+		name_english: "Houston",
+		code: "britcolumb",
+		relative_radius: 1.3 
     },
-      name: "Iroquois Falls",{
-      name_english: "Iroquois Falls",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"iroquoisfall": {
+		name: "Iroquois Falls",
+		name_english: "Iroquois Falls",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Jasper",{
-      name_english: "Jasper",
-      code: "alberta",
-	  relative_radius: 1.3 
+	"jasper": {
+		name: "Jasper",
+		name_english: "Jasper",
+		code: "alberta",
+		relative_radius: 1.3 
     },
-      name: "Kamloops",{
-      name_english: "Kamloops",
-      code: "britcolumb",
-	  relative_radius: 1.3 
+	"kamloops": {
+		name: "Kamloops",
+		name_english: "Kamloops",
+		code: "britcolumb",
+		relative_radius: 1.3 
     },
-      name: "Kindersley",{
-      name_english: "Kindersley",
-      code: "saskatchew",
-	  relative_radius: 1.3 
+	"kindersley": {
+		name: "Kindersley",
+		name_english: "Kindersley",
+		code: "saskatchew",
+		relative_radius: 1.3 
     },
-      name: "Kingston",{
-      name_english: "Kingston",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"kingston": {
+		name: "Kingston",
+		name_english: "Kingston",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Labrador City",{
-      name_english: "Labrador City",
-      code: "newfoundla",
-	  relative_radius: 1.3 
+	"labradorcity": {
+		name: "Labrador City",
+		name_english: "Labrador City",
+		code: "newfoundla",
+		relative_radius: 1.3 
     },
-      name: "Lac La Biche",{
-      name_english: "Lac La Biche",
-      code: "alberta",
-	  relative_radius: 1.3 
+	"laclabiche": {
+		name: "Lac La Biche",
+		name_english: "Lac La Biche",
+		code: "alberta",
+		relative_radius: 1.3 
     },
-      name: "La Tuque",{
-      name_english: "La Tuque",
-      code: "quebec",
-	  relative_radius: 1.3 
+	"latuque": {
+		name: "La Tuque",
+		name_english: "La Tuque",
+		code: "quebec",
+		relative_radius: 1.3 
     },
-      name: "Lloydminster",{
-      name_english: "Lloydminster",
-      code: "saskatchew",
-	  relative_radius: 1.3 
+	"lloydminster": {
+		name: "Lloydminster",
+		name_english: "Lloydminster",
+		code: "saskatchew",
+		relative_radius: 1.3 
     },
-      name: "Maniwaki",{
-      name_english: "Maniwaki",
-      code: "quebec",
-	  relative_radius: 1.3 
+	"maniwaki": {
+		name: "Maniwaki",
+		name_english: "Maniwaki",
+		code: "quebec",
+		relative_radius: 1.3 
     },
-      name: "Maple Creek",{
-      name_english: "Maple Creek",
-      code: "saskatchew",
-	  relative_radius: 1.3 
+	"maplecreek": {
+		name: "Maple Creek",
+		name_english: "Maple Creek",
+		code: "saskatchew",
+		relative_radius: 1.3 
     },
-      name: "Marathon",{
-      name_english: "Marathon",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"marathon": {
+		name: "Marathon",
+		name_english: "Marathon",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Matane",{
-      name_english: "Matane",
-      code: "quebec",
-	  relative_radius: 1.3 
+	"matane": {
+		name: "Matane",
+		name_english: "Matane",
+		code: "quebec",
+		relative_radius: 1.3 
     },
-      name: "Moncton",{
-      name_english: "Moncton",
-      code: "newbrunswi",
-	  relative_radius: 1.3 
+	"moncton": {
+		name: "Moncton",
+		name_english: "Moncton",
+		code: "newbrunswi",
+		relative_radius: 1.3 
     },
-      name: "Montreal",{
-      name_english: "Montreal",
-      code: "quebec",
-	  relative_radius: 1.3 
+	"montreal": {
+		name: "Montreal",
+		name_english: "Montreal",
+		code: "quebec",
+		relative_radius: 1.3 
     },
-      name: "Nakina",{
-      name_english: "Nakina",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"nakina": {
+		name: "Nakina",
+		name_english: "Nakina",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Ottawa",{
-      name_english: "Ottawa",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"ottawa": {
+		name: "Ottawa",
+		name_english: "Ottawa",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Parry Sound",{
-      name_english: "Parry Sound",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"parrysound": {
+		name: "Parry Sound",
+		name_english: "Parry Sound",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Prince George",{
-      name_english: "Prince George",
-      code: "britcolumb",
-	  relative_radius: 1.3 
+	"princegeorge": {
+		name: "Prince George",
+		name_english: "Prince George",
+		code: "britcolumb",
+		relative_radius: 1.3 
     },
-      name: "Prince Rupert",{
-      name_english: "Prince Rupert",
-      code: "britcolumb",
-	  relative_radius: 1.3 
+	"princerupert": {
+		name: "Prince Rupert",
+		name_english: "Prince Rupert",
+		code: "britcolumb",
+		relative_radius: 1.3 
     },
-      name: "Quebec",{
-      name_english: "Quebec",
-      code: "quebec",
-	  relative_radius: 1.3 
+	"quebec": {
+		name: "Quebec",
+		name_english: "Quebec",
+		code: "quebec",
+		relative_radius: 1.3 
     },
-      name: "Riviere-du-Loup",{
-      name_english: "Riviere-du-Loup",
-      code: "quebec",
-	  relative_radius: 1.3 
+	"rdl": {
+		name: "Riviere-du-Loup",
+		name_english: "Riviere-du-Loup",
+		code: "quebec",
+		relative_radius: 1.3 
     },
-      name: "Regina",{
-      name_english: "Regina",
-      code: "saskatchew",
-	  relative_radius: 1.3 
+	"regina": {
+		name: "Regina",
+		name_english: "Regina",
+		code: "saskatchew",
+		relative_radius: 1.3 
     },
-      name: "Rouyn-Noranda",{
-      name_english: "Rouyn-Noranda",
-      code: "quebec",
-	  relative_radius: 1.3 
+	"rouynnoranda": {
+		name: "Rouyn-Noranda",
+		name_english: "Rouyn-Noranda",
+		code: "quebec",
+		relative_radius: 1.3 
     },
-      name: "Russel",{
-      name_english: "Russel",
-      code: "manitob",
-	  relative_radius: 1.3 
+	"russel": {
+		name: "Russel",
+		name_english: "Russel",
+		code: "manitob",
+		relative_radius: 1.3 
     },
-      name: "Saguenay",{
-      name_english: "Saguenay",
-      code: "quebec",
-	  relative_radius: 1.3 
+	"saguenay": {
+		name: "Saguenay",
+		name_english: "Saguenay",
+		code: "quebec",
+		relative_radius: 1.3 
     },
-      name: "Saskatoon",{
-      name_english: "Saskatoon",
-      code: "saskatchew",
-	  relative_radius: 1.3 
+	"saskatoon": {
+		name: "Saskatoon",
+		name_english: "Saskatoon",
+		code: "saskatchew",
+		relative_radius: 1.3 
     },
-      name: "Sault Ste. Marie",{
-      name_english: "Sault Ste. Marie",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"saultmarie": {
+		name: "Sault Ste. Marie",
+		name_english: "Sault Ste. Marie",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Sept-Iles",{
-      name_english: "Sept-Iles",
-      code: "quebec",
-	  relative_radius: 1.3 
+	"septiles": {
+		name: "Sept-Iles",
+		name_english: "Sept-Iles",
+		code: "quebec",
+		relative_radius: 1.3 
     },
-      name: "Stewart",{
-      name_english: "Stewart",
-      code: "britcolumb",
-	  relative_radius: 1.3 
+	"stewart": {
+		name: "Stewart",
+		name_english: "Stewart",
+		code: "britcolumb",
+		relative_radius: 1.3 
     },
-      name: "Sudbury",{
-      name_english: "Sudbury",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"sudbury": {
+		name: "Sudbury",
+		name_english: "Sudbury",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Thunder Bay",{
-      name_english: "Thunder Bay",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"thunderbay": {
+		name: "Thunder Bay",
+		name_english: "Thunder Bay",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Toronto",{
-      name_english: "Toronto",
-      code: "ontario",
-	  relative_radius: 1.3 
+	"toronto": {
+		name: "Toronto",
+		name_english: "Toronto",
+		code: "ontario",
+		relative_radius: 1.3 
     },
-      name: "Truro",{
-      name_english: "Truro",
-      code: "novascotia",
-	  relative_radius: 1.3 
+	"truro": {
+		name: "Truro",
+		name_english: "Truro",
+		code: "novascotia",
+		relative_radius: 1.3 
     },
-      name: "Vancouver",{
-      name_english: "Vancouver",
-      code: "britcolumb",
-	  relative_radius: 1.3 
+	"vancouver": {
+		name: "Vancouver",
+		name_english: "Vancouver",
+		code: "britcolumb",
+		relative_radius: 1.3 
     },
-      name: "Virden",{
-      name_english: "Virden",
-      code: "manitob",
-	  relative_radius: 1.3 
+	"virden": {
+		name: "Virden",
+		name_english: "Virden",
+		code: "manitob",
+		relative_radius: 1.3 
     },
-      name: "Watson Lake",{
-      name_english: "Watson Lake",
-      code: "yukonn",
-	  relative_radius: 1.3 
+	"watsonlake": {
+		name: "Watson Lake",
+		name_english: "Watson Lake",
+		code: "yukonn",
+		relative_radius: 1.3 
     },
-      name: "Whitehorse",{
-      name_english: "Whitehorse",
-      code: "yukonn",
-	  relative_radius: 1.3 
+	"whitehorse": {
+		name: "Whitehorse",
+		name_english: "Whitehorse",
+		code: "yukonn",
+		relative_radius: 1.3 
     },
-      name: "Williams Lake",{
-      name_english: "Williams Lake",
-      code: "britcolumb",
-	  relative_radius: 1.3 
+	"williamslake": {
+		name: "Williams Lake",
+		name_english: "Williams Lake",
+		code: "britcolumb",
+		relative_radius: 1.3 
     },
-      name: "Winnipe",{
-      name_english: "Winnipeg",
-      code: "manitob",
-	  relative_radius: 1.3 
+	"winnipeg": {
+		name: "Winnipeg",
+		name_english: "Winnipeg",
+		code: "manitob",
+		relative_radius: 1.3 
     },
-      name: "Yarmouth",{
-      name_english: "Yarmouth",
-      code: "novascotia",
-	  relative_radius: 1.3 
+	"yarmouth": {
+		name: "Yarmouth",
+		name_english: "Yarmouth",
+		code: "novascotia",
+		relative_radius: 1.3 
     },
-      name: "Yellowknife",{
-      name_english: "Yellowknife",
-      code: "northterrr",
-	  relative_radius: 1.3 
+	"yellowknife": {
+		name: "Yellowknife",
+		name_english: "Yellowknife",
+		code: "northterrr",
+		relative_radius: 1.3 
     }
 };
 
@@ -1000,7 +1062,6 @@ var cities_canadream = {
     }
   ];
 
-//Uncomment the lines below to enable Canadream
-//cities = cities.concat(cities_canadream);
 //country_properties = $.extend(country_properties, country_properties_canadream);
 //city_properties = $.extend(city_properties, city_properties_canadream);
+//cities = cities.concat(cities_canadream);
