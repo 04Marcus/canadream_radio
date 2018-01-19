@@ -239,9 +239,9 @@ var country_properties_canadream = {
     code: "ca-bc",
     relative_radius: 1.3
   },
-  "ca-qc": {
-    name: "ca-qc",
-    name_english: "ca-qc",
+  "quebec": {
+    name: "Québec",
+    name_english: "Quebec",
     code: "ca-qc",
     relative_radius: 1.3
   },
