@@ -417,7 +417,7 @@ var stations_canadream = {
         },
         {
             name: "JoyFM 96.5",
-            logo: "stations/images-america/canadream/fredericton/JoyFM 96.5",
+            logo: "stations/images-america/canadream/fredericton/JoyFM 96.5.png",
             url: "http://ice7.securenetsystems.net:80/CIXN"
         },
         {
