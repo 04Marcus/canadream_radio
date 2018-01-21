@@ -363,13 +363,12 @@
             logo: "stations/images-america/ely/Pilgrim Radio.png",
             url: "http://stream.us.gslb.liquidcompass.net/KNISFMAAC?ats=1"
         },
-        /*
         {
             name: "FM 100.3",
             logo: "stations/images-america/ely/FM 100.3.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFM.mp3"
+            url: "http://18813.live.streamtheworld.com/KSFIHD3AAC.aac"
         },
-        */
+        
     ],
     "el_centro": [
         {
@@ -2709,12 +2708,12 @@ var stations_c2c = {
         {
             name: "96.1 K-Star",
             logo: "stations/images-america/c2c/96.1 K-Star.png",
-            url: "http://www.ophanim.net:9620/;"
+            url: "http://15113.live.streamtheworld.com/KSTRFMAAC.aac"
         },
         {
             name: "The Vault 100.7",
             logo: "stations/images-america/c2c/The Vault 100.7.png",
-            url: "http://www.ophanim.net:9610/;"
+            url: "http://18153.live.streamtheworld.com/KKVTFMAAC.aac"
         },
         {
             name: "103.3 KPRU CPR Classical",
@@ -2724,7 +2723,7 @@ var stations_c2c = {
         {
             name: "Kool 107.9",
             logo: "stations/images-america/c2c/Kool 107.9.png",
-            url: "http://54.226.246.175/townsquare-kbklfmaac-ibc3"
+            url: "http://54.196.154.68/townsquare-kbklfmaac-ibc3"
         },
         {
             name: "580 KUBC Talk Radio",
@@ -2734,7 +2733,7 @@ var stations_c2c = {
         {
             name: "KNZZ 1100 92.7",
             logo: "stations/images-america/c2c/KNZZ 1100 92.7.png",
-            url: "http://www.ophanim.net:9640/;"
+            url: "http://17643.live.streamtheworld.com/KNZZAMAAC.aac"
         },
     ],
     "kit_carson": [
@@ -6824,7 +6823,7 @@ var stations_c2c = {
         {
             name: "The Moose 95.1",
             logo: "stations/images-america/c2c/The Moose 95.1.png",
-            url: "http://54.167.105.162/townsquare-kmmsfmaac-ibc3"
+            url: "http://54.196.154.68/townsquare-kmmsfmaac-ibc3"
         },
         {
             name: "102.1 KBMC Yellowstone Public Radio",
@@ -6834,7 +6833,7 @@ var stations_c2c = {
         {
             name: "My 103.5",
             logo: "stations/images-america/c2c/My 103.5.png",
-            url: "http://54.167.105.162/townsquare-kzmyfmaac-ibc3"
+            url: "http://54.196.154.68/townsquare-kzmyfmaac-ibc3"
         },
         {
             name: "The Eagle 104.7 105.7",
@@ -6849,7 +6848,7 @@ var stations_c2c = {
         {
             name: "AM 1450 KMMS",
             logo: "stations/images-america/c2c/AM 1450 KMMS.png",
-            url: "http://54.167.105.162/townsquare-kmmsamaac-ibc3"
+            url: "http://54.196.154.68/townsquare-kmmsamaac-ibc3"
         },
     ],
     "butte": [
@@ -6919,7 +6918,7 @@ var stations_c2c = {
         {
             name: "1240 KLYQ",
             logo: "stations/images-america/c2c/1240 KLYQ.png",
-            url: "http://54.167.105.162/townsquare-klyqamaac-ibc3"
+            url: "http://54.196.154.68/townsquare-klyqamaac-ibc3"
         },
         {
             name: "Montana Public Radio",
@@ -10675,12 +10674,12 @@ var stations_c2c = {
         {
             name: "89.7 KZMU Community Radio",
             logo: "stations/images-america/c2c/89.7 KZMU Community Radio.png",
-            url: "http://war.str3am.com:7140/;"
+            url: "http://tektite.streamguys1.com:5450/live"
         },
         {
             name: "FM 100.3",
             logo: "stations/images-america/c2c/FM 100.3.png",
-            url: "http://18623.live.streamtheworld.com:3690/KSFIFM_SC"
+            url: "http://18813.live.streamtheworld.com/KSFIHD3AAC.aac"
         },
     ],
     "richfield_ut": [
@@ -10842,6 +10841,16 @@ var stations_c2c = {
             name: "Classic Country AM 1370",
             logo: "stations/images-america/c2c/Classic Country AM 1370.jpg",
             url: "http://ice8.securenetsystems.net:80/KSOPAM"
+        },
+		{
+            name: "FM 100.3",
+            logo: "stations/images-america/c2c/FM 100.3.png",
+            url: "http://18813.live.streamtheworld.com/KSFIHD3AAC.aac"
+        },
+		{
+            name: "B98.7",
+            logo: "stations/images-america/c2c/B98.7.png",
+            url: "http://16693.live.streamtheworld.com/KBEEFMAAC.aac"
         },
     ],
     "brattleboro": [
