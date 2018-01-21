@@ -1,5 +1,12 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+Update 21.01.: 
++ **project**: successfully merged canadream with existing ATS files (thank you koen for bugfixing!)
++ **c2c**: fixed some filepaths/filenames of missing logos + added new logos for missing logos
++ **reno**: K-BOOK logo added
+
+=========
+
 Update 15.01.:
 + **flags**: Flags added - changed filenames to ingame-country names >> Thanks to veso266 for the svg-files!
 
