@@ -12820,7 +12820,7 @@ var stations_canadream = {
     ],
     "jasper": [
         {
-            name: "Real Country West 95.5",
+            name: "Real Country West",
             logo: "stations/images-america/canadream/jasper/Real Country West 95.5.png",
             url: "http://newcap.leanstream.co/CFXEFM"
         },
@@ -12830,7 +12830,7 @@ var stations_canadream = {
             url: "http://cbc_r1_edm.akacast.akamaistream.net/7/904/451661/v1/rc.akacast.akamaistream.net/cbc_r1_edm"
         },
         {
-            name: "Ici Radio-Canada Première 101.1",
+            name: "Ici Radio-Canada Première",
             logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
             url: "http://2qrou0.akacast.akamaistream.net/7/542/177398/v1/rc.akacast.akamaistream.net/2QROU0"
         },
@@ -13021,12 +13021,12 @@ var stations_canadream = {
     ],
     "maniwaki": [
         {
-            name: "CBC Radio One 710 AM",
+            name: "CBC Radio One",
             logo: "stations/images-america/canadream/princegeorge/CBC Radio One Prince George CBYG.png",
             url: "http://cbc_r1_ott.akacast.akamaistream.net/7/613/451661/v1/rc.akacast.akamaistream.net/cbc_r1_ott"
         },
         {
-            name: "Ici Radio-Canada Première 990 AM",
+            name: "Ici Radio-Canada Première",
             logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
             url: "http://2oott0.akacast.akamaistream.net/7/749/177394/v1/rc.akacast.akamaistream.net/2OOTT0"
         },
@@ -13082,7 +13082,7 @@ var stations_canadream = {
             url: "http://stream.statsradio.com:8028/stream"
         },
         {
-            name: "Ici Musique 107.5 FM",
+            name: "Ici Musique",
             logo: "stations/images-america/canadream/Ici Musique.jpg",
             url: "http://7qrim0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0"
         },
