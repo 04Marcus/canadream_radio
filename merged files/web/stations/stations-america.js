@@ -12903,7 +12903,7 @@ var stations_canadream = {
         {
             name: "91.9 The Cave",
             logo: "stations/images-america/canadream/kingston/91.9 The Cave.png",
-            url: "http://listen1.mixlr.com/eb258fcf66cb1ca6c24c377bfb1de385"
+            url: "http://listen1.mixlr.com/268118aff50653a39636e84ea9f802fb"
         },
         {
             name: "CBC Radio 2",
@@ -13237,7 +13237,7 @@ var stations_canadream = {
         },
         {
             name: "92.5 The Beat",
-            logo: "stations/images-america/canadream/montreal/92.5 The Beat.png",
+            logo: "stations/images-america/canadream/montreal/92.5 The Beat.svg",
             url: "http://icecast.cogecomedia.com:8000/ckbe.mp3"
         },
         {
