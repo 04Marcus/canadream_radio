@@ -1,5 +1,10 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+10.05.2018:
++ **ATS local radio**: added 47 stations in California, Arizona, Nevada and New Mexico - "new stations_10.05.zip"
+
+======
+
 Update 21.01.: 
 + **project**: successfully merged canadream with existing ATS files (thank you koen for bugfixing!)
 + **c2c**: fixed some filepaths/filenames of missing logos + added new logos for missing logos
