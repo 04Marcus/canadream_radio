@@ -1061,14 +1061,14 @@
             url: "http://67.212.165.106:8259/KHWY-FM"
         },
         {
-            name: "La Tricolor 105.1",
-            logo: "stations/images-america/las_vegas/La Tricolor 105.1.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQRTFM.mp3"
-        },
-        {
             name: "Real 103.9",
             logo: "stations/images-america/las_vegas/Real 103.9.png",
             url: "http://c3icyelb.prod.playlists.ihrhls.com/6967_icy"
+        },
+        {
+            name: "La Tricolor 105.1",
+            logo: "stations/images-america/las_vegas/La Tricolor 105.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQRTFM.mp3"
         },
         {
             name: "Q106.9",
