@@ -1422,24 +1422,24 @@
     ],
     "redding": [
         {
-            name: "North State Public Radio",
+            name: "NSPR",
             logo: "stations/images-america/redding/North State Public Radio.jpg",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCHOFM_64.mp3"
         },
         {
-            name: "KNCQ",
+            name: "Q97",
             logo: "stations/images-america/redding/KNCQ.png",
             url: "https://live.wostreaming.net/direct/resultsradio-kncqfmaac-ibc3?source=tunegenie"
-        },
-        {
-            name: "K-SHASTA",
-            logo: "stations/images-america/redding/K-SHASTA.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSHAFM.mp3"
         },
         {
             name: "Wild 99.3",
             logo: "stations/images-america/redding/Wild 99.3.png",
             url: "http://14953.live.streamtheworld.com/KWLZFM.mp3"
+        },
+        {
+            name: "104.3 K-SHASTA",
+            logo: "stations/images-america/redding/K-SHASTA.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSHAFM.mp3"
         },
         {
             name: "106X",
