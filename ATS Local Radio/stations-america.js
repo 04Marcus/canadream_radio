@@ -882,11 +882,6 @@
             url: "http://ic1.christiannetcast.com/nuevavida"
         },
         {
-            name: "97.7 KRCK",
-            logo: "stations/images-america/indio/97.7 KRCK.png",
-            url: "http://ice10.securenetsystems.net/KRCK"
-        },
-        {
             name: "Mix 100.5",
             logo: "stations/images-america/indio/Mix 100.5.png",
             url: "http://stream.abacast.net/direct/alphacorporate-kpsifmaac-ibc4&source=website"
