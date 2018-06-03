@@ -1011,11 +1011,6 @@
     ],
     "las_vegas": [
         {
-            name: "790 Talk Now",
-            logo: "stations/images-america/las_vegas/790 Talk Now.png",
-            url: "http://ice9.securenetsystems.net/KBET"
-        },
-        {
             name: "Power 88",
             logo: "stations/images-america/las_vegas/Power 88.png",
             url: "http://ice7.securenetsystems.net:80/KCEP"
@@ -1387,11 +1382,6 @@
         },
     ],
     "primm": [
-        {
-            name: "790 Talk Now",
-            logo: "stations/images-america/las_vegas/790 Talk Now.png",
-            url: "http://ice9.securenetsystems.net/KBET"
-        },
         {
             name: "KNPR",
             logo: "stations/images-america/nevada/KNPR.svg",
