@@ -1,5 +1,10 @@
 **CanaDream for ETS2/ATS Local Radio**
 
++ **ATS local radio**: new continous project for California, Arizona, Nevada and New Mexico
++ new logos, new stations and changed order depending on the frequencies (AM/FM) for some cities
+
+======
+
 10.05.2018:
 + **ATS local radio**: added 47 stations in California, Arizona, Nevada and New Mexico - "new stations_10.05.zip"
 
