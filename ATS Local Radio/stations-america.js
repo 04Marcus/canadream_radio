@@ -379,11 +379,6 @@
     ],
     "ehrenberg": [
         {
-            name: "KBLU",
-            logo: "stations/images-america/yuma/KBLU.jpg",
-            url: "http://65.19.131.139/eldorado-kbluamaac-ibc2?session-id=2076409571"
-        },
-        {
             name: "KNTR 980 AM",
             logo: "stations/images-america/ehrenberg/KNTR.png",
             url: "http://50.22.253.46/kntr-am"
@@ -461,11 +456,6 @@
         */
     ],
     "el_centro": [
-        {
-            name: "KBLU",
-            logo: "stations/images-america/yuma/KBLU.jpg",
-            url: "http://65.19.131.139/eldorado-kbluamaac-ibc2?session-id=2076409571"
-        },
         {
             name: "KAWC",
             logo: "stations/images-america/el_centro/KAWC.png",
@@ -1328,7 +1318,7 @@
         },
         {
             name: "KWSS 93.9",
-            logo: "stations/images-america/phoenix/The Oasis.png",
+            logo: "stations/images-america/phoenix/KWSS.png",
             url: "http://50.7.96.210:8458/;"
         },
         {
@@ -1791,14 +1781,14 @@
     ],
     "show_low": [
         {
+            name: "Radio 74",
+            logo: "stations/images-america/show_low/Radio 74.gif",
+            url: "http://radio74.ice.infomaniak.ch:80/radio74-high"
+        },
+        {
             name: "KNAU",
             logo: "stations/images-america/show_low/KNAU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
-        },
-        {
-            name: "99.7 The Bear",
-            logo: "stations/images-america/show_low/99.7 The Bear.png",
-            url: "http://www.997thebear.com:8192/bear64"
         },
         {
             name: "KQAZ",
@@ -1806,9 +1796,9 @@
             url: "http://ice42.securenetsystems.net:80/KQAZ"
         },
         {
-            name: "Radio 74",
-            logo: "stations/images-america/show_low/Radio 74.gif",
-            url: "http://radio74.ice.infomaniak.ch:80/radio74-high"
+            name: "99.7 The Bear",
+            logo: "stations/images-america/show_low/99.7 The Bear.png",
+            url: "http://www.997thebear.com:8192/bear64"
         },
     ],
     "sierra_vista": [
@@ -1842,19 +1832,14 @@
     ],
     "stockton": [
         {
-            name: "The Hawk 104.1",
-            logo: "stations/images-america/stockton/The Hawk 104.1.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHKKFM.mp3"
-        },
-        {
-            name: "Kat Country 103",
-            logo: "stations/images-america/stockton/Kat Country 103.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KATMFM.mp3"
-        },
-        {
             name: "Capital Public Radio",
             logo: "stations/images-america/stockton/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
+        },
+        {
+            name: "97.7 KWIN",
+            logo: "stations/images-america/stockton/KWIN.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWINFM.mp3"
         },
         {
             name: "99.3 KJOY",
@@ -1862,9 +1847,14 @@
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KJOYFM.mp3"
         },
         {
-            name: "KWIN",
-            logo: "stations/images-america/stockton/KWIN.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWINFM.mp3"
+            name: "Kat Country 103",
+            logo: "stations/images-america/stockton/Kat Country 103.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KATMFM.mp3"
+        },
+        {
+            name: "The Hawk 104.1",
+            logo: "stations/images-america/stockton/The Hawk 104.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHKKFM.mp3"
         },
     ],
     "tonopah": [
@@ -1903,14 +1893,9 @@
     ],
     "tucson": [
         {
-            name: "La Buena 94.3",
-            logo: "stations/images-america/tucson/La Buena 94.3.png",
-            url: "http://18443.live.streamtheworld.com/KTKTFMAAC.aac"
-        },
-        {
-            name: "97.5 The Vibe",
-            logo: "stations/images-america/tucson/97.5 The Vibe.png",
-            url: "http://18613.live.streamtheworld.com/KSZRFMAAC.aac"
+            name: "Family Life Radio",
+            logo: "stations/images-america/tucson/Family Life Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
             name: "APB News and Jazz",
@@ -1923,14 +1908,14 @@
             url: "http://streaming.azpm.org:80/kuat192.mp3"
         },
         {
-            name: "97.1 Bull",
-            logo: "stations/images-america/tucson/97.1 Bull.png",
-            url: "http://c6icyelb.prod.playlists.ihrhls.com/69_icy"
+            name: "My 92.9",
+            logo: "stations/images-america/tucson/My 92.9.png",
+            url: "http://c6icyelb.prod.playlists.ihrhls.com/65_icy"
         },
         {
-            name: "Family Life Radio",
-            logo: "stations/images-america/tucson/Family Life Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
+            name: "La Buena 94.3",
+            logo: "stations/images-america/tucson/La Buena 94.3.png",
+            url: "http://18443.live.streamtheworld.com/KTKTFMAAC.aac"
         },
         {
             name: "Mix 94.9",
@@ -1938,9 +1923,14 @@
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMXZFM.mp3"
         },
         {
-            name: "My 92.9",
-            logo: "stations/images-america/tucson/My 92.9.png",
-            url: "http://c6icyelb.prod.playlists.ihrhls.com/65_icy"
+            name: "97.1 Bull",
+            logo: "stations/images-america/tucson/97.1 Bull.png",
+            url: "http://c6icyelb.prod.playlists.ihrhls.com/69_icy"
+        },
+        {
+            name: "97.5 The Vibe",
+            logo: "stations/images-america/tucson/97.5 The Vibe.png",
+            url: "http://18613.live.streamtheworld.com/KSZRFMAAC.aac"
         },
         {
             name: "KQTH",
@@ -2029,11 +2019,6 @@
 		*/
     ],
     "yuma": [
-        {
-            name: "KBLU",
-            logo: "stations/images-america/yuma/KBLU.jpg",
-            url: "http://65.19.131.139/eldorado-kbluamaac-ibc2?session-id=2076409571"
-        },
         {
             name: "Z93",
             logo: "stations/images-america/yuma/Z93.png",
