@@ -2,7 +2,7 @@
     "alamogordo": [
         {
             name: "CSN",
-            logo: "stations/images-america/alamogordo/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -17,7 +17,7 @@
         },
         {
             name: "Star 88",
-            logo: "stations/images-america/alamogordo/Star 88.png",
+            logo: "stations/images-america/0_general_logos/Star 88.png",
             url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             name: "KUNM",
-            logo: "stations/images-america/albuquerque/KUNM.png",
+            logo: "stations/images-america/0_general_logos/KUNM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128.mp3"
         },
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/albuquerque/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
@@ -101,17 +101,17 @@
         },
         {
             name: "KENW",
-            logo: "stations/images-america/artesia/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/artesia/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
             name: "Star 88",
-            logo: "stations/images-america/artesia/Star 88.png",
+            logo: "stations/images-america/0_general_logos/Star 88.png",
             url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
         },
         {
@@ -148,17 +148,17 @@
         },
         {
             name: "Radio Nueva Vida",
-            logo: "stations/images-america/bakersfield/Radio Nueva Vida.png",
+            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
             url: "http://ic1.christiannetcast.com/nuevavida"
         },
         {
             name: "Radio Bilingue",
-            logo: "stations/images-america/bakersfield/Radio Bilingue.png",
+            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
             url: "http://radio.radiobilingue.org:8000/;"
         },
         {
             name: "Family Radio West Coast",
-            logo: "stations/images-america/bakersfield/Family Radio West Coast.svg",
+            logo: "stations/images-america/0_general_logos/Family Radio West Coast.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         {
@@ -204,7 +204,7 @@
     "barstow": [
         {
             name: "CSN",
-            logo: "stations/images-america/barstow/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -238,7 +238,7 @@
     "camp_verde": [
         {
             name: "CSN",
-            logo: "stations/images-america/camp_verde/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -292,7 +292,7 @@
     "carlsbad_nm": [
         {
             name: "KENW",
-            logo: "stations/images-america/carlsbad_nm/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
@@ -302,12 +302,12 @@
         },
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/carlsbad_nm/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
             name: "K-LOVE",
-            logo: "stations/images-america/carlsbad_nm/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
         {
@@ -329,7 +329,7 @@
     "carson_city": [
         {
             name: "Family Radio West Coast",
-            logo: "stations/images-america/carson_city/Family Radio West Coast.svg",
+            logo: "stations/images-america/0_general_logos/Family Radio West Coast.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         {
@@ -348,12 +348,12 @@
     "clovis": [
         {
             name: "KENW",
-            logo: "stations/images-america/clovis/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/clovis/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLR.mp3"
         },
         {
@@ -390,7 +390,7 @@
         },
         {
             name: "Radio Bilingue",
-            logo: "stations/images-america/ehrenberg/Radio Bilingue.png",
+            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
             url: "http://radio.radiobilingue.org:8000/;"
         },
         {
@@ -434,7 +434,7 @@
         },
         {
             name: "CSN",
-            logo: "stations/images-america/camp_verde/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -537,7 +537,7 @@
     "farmington": [
         {
             name: "CSN",
-            logo: "stations/images-america/farmington/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -581,7 +581,7 @@
     "flagstaff": [
         {
             name: "KNAU",
-            logo: "stations/images-america/flagstaff/KNAU.png",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
         {
@@ -684,7 +684,7 @@
         },
         {
             name: "KNAU",
-            logo: "stations/images-america/g_canyon_vlg/KNAU.png",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
         {
@@ -696,12 +696,12 @@
     "gallup": [
         {
             name: "CSN",
-            logo: "stations/images-america/gallup/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
             name: "Star 88",
-            logo: "stations/images-america/gallup/Star 88.png",
+            logo: "stations/images-america/0_general_logos/Star 88.png",
             url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
         },
         {
@@ -738,7 +738,7 @@
         },
         {
             name: "Star 88",
-            logo: "stations/images-america/hobbs/Star 88.png",
+            logo: "stations/images-america/0_general_logos/Star 88.png",
             url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
         },
         {
@@ -758,7 +758,7 @@
         },
         {
             name: "KENW",
-            logo: "stations/images-america/hobbs/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
@@ -785,7 +785,7 @@
         },
         {
             name: "CSN",
-            logo: "stations/images-america/holbrook/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -809,12 +809,12 @@
     "huron": [
         {
             name: "K-Love",
-            logo: "stations/images-america/huron/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
         {
             name: "Family Radio West Coast",
-            logo: "stations/images-america/huron/Family Radio West Coast.svg",
+            logo: "stations/images-america/0_general_logos/Family Radio West Coast.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         {
@@ -843,7 +843,7 @@
     "indio": [
         {
             name: "CSN",
-            logo: "stations/images-america/indio/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -858,7 +858,7 @@
         },
         {
             name: "KCRW",
-            logo: "stations/images-america/indio/KCRW.jpg",
+            logo: "stations/images-america/0_general_logos/KCRW.png",
             url: "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
         },
         {
@@ -868,7 +868,7 @@
         },
         {
             name: "Radio Nueva Vida 96.3",
-            logo: "stations/images-america/indio/Radio Nueva Vida.png",
+            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
             url: "http://ic1.christiannetcast.com/nuevavida"
         },
         {
@@ -945,7 +945,7 @@
     "las_cruces": [
         {
             name: "CSN",
-            logo: "stations/images-america/las_cruces/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -955,7 +955,7 @@
         },
         {
             name: "Star 88",
-            logo: "stations/images-america/las_cruces/Star 88.png",
+            logo: "stations/images-america/0_general_logos/Star 88.png",
             url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
         },
         {
@@ -1141,7 +1141,7 @@
         },
         {
             name: "Classical 90.5 FM",
-            logo: "stations/images-america/nogales/Arizona Public Media.png",
+            logo: "stations/images-america/0_general_logos/APB Classical.png",
             url: "http://streaming.azpm.org:80/kuat192.mp3"
         },
         {
@@ -1217,7 +1217,7 @@
         },
         {
             name: "KCRW",
-            logo: "stations/images-america/oxnard/KCRW.jpg",
+            logo: "stations/images-america/0_general_logos/KCRW.png",
             url: "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
         },
         {
@@ -1264,7 +1264,7 @@
         },
         {
             name: "KNAU",
-            logo: "stations/images-america/page/KNAU.png",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
         {
@@ -1288,7 +1288,7 @@
         },
         {
             name: "Family Radio",
-            logo: "stations/images-america/phoenix/Family Radio West Coast.svg",
+            logo: "stations/images-america/0_general_logos/Family Radio West Coast.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         {
@@ -1386,12 +1386,12 @@
     "raton": [
         {
             name: "KENW",
-            logo: "stations/images-america/raton/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
             name: "Radio Bilingue",
-            logo: "stations/images-america/raton/Radio Bilingue.png",
+            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
             url: "http://radio.radiobilingue.org:8000/;"
         },
         {
@@ -1445,7 +1445,7 @@
         },
         {
             name: "K-LOVE",
-            logo: "stations/images-america/reno/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
         {
@@ -1477,7 +1477,7 @@
         },
         {
             name: "Relevant Radio",
-            logo: "stations/images-america/roswell/Relevant Radio.png",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
             url: "http://relevantradio-ice.streamguys.us/relevantradio-web"
         },
         {
@@ -1487,12 +1487,12 @@
         },
         {
             name: "CSN",
-            logo: "stations/images-america/roswell/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
             name: "Radio Nueva Vida",
-            logo: "stations/images-america/roswell/Radio Nueva Vida.png",
+            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
             url: "http://sc1.christiannetcast.com:9138/;stream.mp3"
         },
         {
@@ -1512,12 +1512,12 @@
         },
         {
             name: "Star 88",
-            logo: "stations/images-america/roswell/Star 88.png",
+            logo: "stations/images-america/0_general_logos/Star 88.png",
             url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
         },
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/roswell/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://18783.live.streamtheworld.com/MYFLR.mp3"
         },
         {
@@ -1544,7 +1544,7 @@
         },
         {
             name: "Capital Public Radio",
-            logo: "stations/images-america/sacramento/Capital Public Radio.png",
+            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
         {
@@ -1590,34 +1590,114 @@
     ],
     "santa_cruz": [
         {
-            name: "KAZU",
+            name: "KZSC 88.1",
+            logo: "stations/images-america/santa_cruz/KZSC.jpg",
+            url: "http://188.165.192.5:8242/kzsclow"
+        },
+        {
+            name: "KQED 88.5",
+            logo: "stations/images-america/san_francisco/KQED Public Radio.png",
+            url: "http://50.31.186.115:80/kqedradio"
+        },
+        {
+            name: "KAZU 90.3",
             logo: "stations/images-america/santa_cruz/KAZU.png",
             url: "http://icecast.csumb.edu:8000/live128"
         },
         {
-            name: "KZSC",
-            logo: "stations/images-america/santa_cruz/KZSC.jpg",
-            url: "http://188.165.192.5:8242/kzsclow"
+            name: "KKUP 91.5",
+            logo: "stations/images-america/santa_cruz/KKUP.jpg",
+            url: "http://204.93.226.26:5960/live"
+        },
+        {
+            name: "KSPB 91.9",
+            logo: "stations/images-america/santa_cruz/KSPB.png",
+            url: "http://50.206.39.25:88/broadwavehigh.mp3"
+        },
+        {
+            name: "Wild 94.9",
+            logo: "stations/images-america/san_francisco/Wild 94.9.png",
+            url: "http://c4icyelb.prod.playlists.ihrhls.com/305_icy"
+        },
+        {
+            name: "95.5 Bob FM",
+            logo: "stations/images-america/santa_cruz/95.5 Bob FM.png",
+            url: "http://15363.live.streamtheworld.com/KKHKFMAAC_SC"
+        },
+        {
+            name: "99.7 Now",
+            logo: "stations/images-america/san_francisco/99.7 Now.png",
+            url: "http://17653.live.streamtheworld.com/KMVQFM_SC"
+        },
+        {
+            name: "Star 101.3",
+            logo: "stations/images-america/san_francisco/Star 101.3.png",
+            url: "http://c10icyelb.prod.playlists.ihrhls.com/281_icy"
+        },
+        {
+            name: "101.7 The Beach",
+            logo: "stations/images-america/santa_cruz/101.7 The Beach.png",
+            url: "http://208.80.54.47/KCDUFM_SC"
+        },
+        {
+            name: "Mix 106",
+            logo: "stations/images-america/santa_cruz/Mix 106.png",
+            url: "http://54.184.37.160/alphacorporate-kezrfmmp3-ibc4"
         },
     ],
     "santa_fe": [
         {
-            name: "KTAOS",
-            logo: "stations/images-america/santa_fe/KTAOS.png",
-            url: "http://knight.wavestreamer.com:6519/;"
+            name: "770 KKOB",
+            logo: "stations/images-america/santa_fe/770 KKOB.png",
+            url: "http://16603.live.streamtheworld.com/KKOBAMAAC.aac"
         },
         {
-            name: "KDCE",
-            logo: "stations/images-america/santa_fe/KDCE.png",
-            url: "http://moon.wavestreamer.com:4202/;"
+            name: "1050 KTBL",
+            logo: "stations/images-america/albuquerque/1050 KTBL.png",
+            url: "http://14983.live.streamtheworld.com/KTBLAMAAC.aac"
         },
         {
-            name: "K-LOVE",
-            logo: "stations/images-america/santa_fe/K-LOVE.png",
+            name: "1260 KTRC",
+            logo: "stations/images-america/santa_fe/1260 KTRC.png",
+            url: "http://216.31.10.3:8012/;"
+        },
+        {
+            name: "Star 88",
+            logo: "stations/images-america/0_general_logos/Star 88.png",
+            url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
+        },
+        {
+            name: "KANW 89.1",
+            logo: "stations/images-america/0_general_logos/KANW.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM.mp3"
+        },
+        {
+            name: "KUNM 89.9",
+            logo: "stations/images-america/0_general_logos/KUNM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128.mp3"
+        },
+        {
+            name: "K-LOVE 90.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
         {
-            name: "KHFM",
+            name: "Family Life Radio 91.5",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
+        },
+        {
+            name: "Nash FM 92.3",
+            logo: "stations/images-america/albuquerque/Nash FM 92.3 KRST.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRSTFM.mp3"
+        },
+        {
+            name: "93.3 KOB FM",
+            logo: "stations/images-america/albuquerque/KOB FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKOBFM.mp3"
+        },
+        {
+            name: "KHFM 95.5",
             logo: "stations/images-america/santa_fe/KHFM.png",
             url: "http://54.82.44.170/agmedia28-khfmfmaac-ibc3"
         },
@@ -1626,17 +1706,77 @@
             logo: "stations/images-america/santa_fe/KISS 97.3.png",
             url: "http://54.82.44.170/agmedia28-kkssfmaac-ibc3"
         },
+        {
+            name: "100.3 The Peak",
+            logo: "stations/images-america/albuquerque/100.3 The Peak.png",
+            url: "http://c4icyelb.prod.playlists.ihrhls.com/1389_icy"
+        },
+        {
+            name: "KTAOS 101.9",
+            logo: "stations/images-america/santa_fe/KTAOS.png",
+            url: "http://knight.wavestreamer.com:6519/;"
+        },
+        {
+            name: "Mix 105.1",
+            logo: "stations/images-america/santa_fe/Mix 105.1.png",
+            url: "http://54.196.108.36/agmedia28-kkrgfmaac-ibc3"
+        },
+        {
+            name: "KDCE 106.3",
+            logo: "stations/images-america/santa_fe/KDCE.png",
+            url: "http://moon.wavestreamer.com:4202/;"
+        },
     ],
     "santa_maria": [
         {
-            name: "KCLU",
+            name: "1290 KZSB",
+            logo: "stations/images-america/santa_maria/1290 KZSB.png",
+            url: "http://ice7.securenetsystems.net/KZSB"
+        },
+        {
+            name: "KPRL 1230 AM",
+            logo: "stations/images-america/santa_maria/KPRL 1230 AM.png",
+            url: "http://stream.kprl.com:8000/;"
+        },
+        {
+            name: "KCLU 1340 AM",
             logo: "stations/images-america/santa_maria/KCLU.png",
             url: "https://kclustream.callutheran.edu:8090/kclump3"
         },
         {
-            name: "CSN",
-            logo: "stations/images-america/santa_maria/CSN.png",
-            url: "http://ice7.securenetsystems.net/CSNAAC"
+            name: "K-LOVE 88.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
+        },
+        {
+            name: "KCRW 88.7",
+            logo: "stations/images-america/0_general_logos/KCRW.png",
+            url: "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
+        },
+        {
+            name: "88.9 La Nueva Radio Vision",
+            logo: "stations/images-america/santa_maria/88.9 La Nueva Radio Vision.png",
+            url: "http://88.198.43.9:9494/;"
+        },
+        {
+            name: "KCPR 91.3",
+            logo: "stations/images-america/santa_maria/KCPR.png",
+            url: "http://129.65.35.106:8000/KCPRMP3"
+        },
+        {
+            name: "KCSB 91.9",
+            logo: "stations/images-america/oxnard/KCSB.png",
+            url: "http://live.kcsb.org/KCSB_128"
+        },
+        {
+            name: "103.3 The Vibe",
+            logo: "stations/images-america/santa_maria/103.3 The Vibe.png",
+            url: "http://19473.live.streamtheworld.com/KVYBFM.mp3"
+        },
+        {
+            name: "KTEA 103.5",
+            logo: "stations/images-america/santa_maria/KTEA 103.5.png",
+            url: "http://r1.radioloyalty.net/lmjc3180"
         },
     ],
     "san_diego": [
@@ -1787,7 +1927,7 @@
         },
         {
             name: "KNAU",
-            logo: "stations/images-america/show_low/KNAU.png",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
         {
@@ -1804,24 +1944,24 @@
     "sierra_vista": [
         {
             name: "APB News and Jazz",
-            logo: "stations/images-america/sierra_vista/Arizona Public Media.png",
+            logo: "stations/images-america/0_general_logos/APB News and Jazz.png",
             url: "http://streaming.azpm.org:80/kuaz192.mp3"
         },
         {
             name: "APB Classical",
-            logo: "stations/images-america/sierra_vista/Arizona Public Media.png",
+            logo: "stations/images-america/0_general_logos/APB Classical.png",
             url: "http://streaming.azpm.org:80/kuat192.mp3"
         },
     ],
     "socorro": [
         {
             name: "KUNM",
-            logo: "stations/images-america/socorro/KUNM.png",
+            logo: "stations/images-america/0_general_logos/KUNM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128.mp3"
         },
         {
             name: "Relevant Radio",
-            logo: "stations/images-america/socorro/Relevant Radio.png",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
             url: "http://relevantradio-ice.streamguys.us/relevantradio-web"
         },
         {
@@ -1833,7 +1973,7 @@
     "stockton": [
         {
             name: "Capital Public Radio",
-            logo: "stations/images-america/stockton/Capital Public Radio.png",
+            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
         {
@@ -1865,7 +2005,7 @@
         },
         {
             name: "CSN",
-            logo: "stations/images-america/tonopah/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -1882,29 +2022,29 @@
         },
         {
             name: "Capital Public Radio",
-            logo: "stations/images-america/truckee/Capital Public Radio.png",
+            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
         {
             name: "Relevant Radio",
-            logo: "stations/images-america/roswell/Relevant Radio.png",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
             url: "http://relevantradio-ice.streamguys.us/relevantradio-web"
         },
     ],
     "tucson": [
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/tucson/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
             name: "APB News and Jazz",
-            logo: "stations/images-america/tucson/Arizona Public Media.png",
+            logo: "stations/images-america/0_general_logos/APB News and Jazz.png",
             url: "http://streaming.azpm.org:80/kuaz192.mp3"
         },
         {
             name: "APB Classical",
-            logo: "stations/images-america/tucson/Arizona Public Media.png",
+            logo: "stations/images-america/0_general_logos/APB Classical.png",
             url: "http://streaming.azpm.org:80/kuat192.mp3"
         },
         {
@@ -1956,12 +2096,12 @@
     "tucumcari": [
         {
             name: "KENW",
-            logo: "stations/images-america/artesia/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
             name: "Relevant Radio",
-            logo: "stations/images-america/tucumcari/Relevant Radio.png",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
             url: "http://relevantradio-ice.streamguys.us/relevantradio-web"
         },
         {
@@ -1971,12 +2111,12 @@
         },
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/tucumcari/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
             name: "K-LOVE",
-            logo: "stations/images-america/tucumcari/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
     ],
@@ -1988,7 +2128,7 @@
         },
         {
             name: "Family Radio West Coast",
-            logo: "stations/images-america/ukiah/Family Radio West Coast.svg",
+            logo: "stations/images-america/0_general_logos/Family Radio West Coast.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         /*
@@ -2002,7 +2142,7 @@
     "winnemucca": [
         {
             name: "CSN",
-            logo: "stations/images-america/winnemucca/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -2031,7 +2171,7 @@
         },
         {
             name: "CSN",
-            logo: "stations/images-america/yuma/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
     ],
@@ -3322,7 +3462,7 @@ var stations_c2c = {
         },
         {
             name: "K-Love",
-            logo: "stations/images-america/c2c/KLove.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk024_mp3_high_web"
         },
         {
@@ -10087,7 +10227,7 @@ var stations_c2c = {
     "clayton_nm": [
         {
             name: "KENW",
-            logo: "stations/images-america/artesia/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
     ],
@@ -12863,7 +13003,7 @@ var stations_c2c = {
         },
         {
             name: "K-Love",
-            logo: "stations/images-america/c2c/KLove.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk024_mp3_high_web"
         },
         {
@@ -13862,7 +14002,7 @@ var stations_c2c = {
         },
         {
             name: "K-Love",
-            logo: "stations/images-america/c2c/KLove.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk024_mp3_high_web"
         },
         {
