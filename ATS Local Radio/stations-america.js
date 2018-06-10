@@ -1174,17 +1174,12 @@
         {
             name: "K97.5",
             logo: "stations/images-america/oakdale/K97.5.png",
-            url: "http://208.80.54.28/KABXFMAAC_SC"
+            url: "http://17803.live.streamtheworld.com/KABXFM.mp3"
         },
         {
             name: "KWIN 97.7",
             logo: "stations/images-america/oakdale/KWIN.png",
             url: "http://20813.live.streamtheworld.com/KWINFMAAC.aac"
-        },
-		{
-            name: "101.7 KKIQ",
-            logo: "stations/images-america/oakdale/KRVR.png",
-            url: "http://14523.live.streamtheworld.com/KRVRFMAAC.aac"
         },
 		{
             name: "Hot 104.7",
@@ -1407,9 +1402,34 @@
     ],
     "redding": [
         {
-            name: "NSPR",
+            name: "KGO News Talk 810",
+            logo: "stations/images-america/redding/KGO News Talk 810.png",
+            url: "http://16693.live.streamtheworld.com/KGOAM.mp3"
+        },
+        {
+            name: "Hella 87.7",
+            logo: "stations/images-america/redding/Hella 87.7.png",
+            url: "http://ice10.securenetsystems.net/KNNN"
+        },
+        {
+            name: "KFPR 88.9",
             logo: "stations/images-america/redding/North State Public Radio.jpg",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCHOFM_64.mp3"
+        },
+        {
+            name: "JPR Rhytm and News 89.7",
+            logo: "stations/images-america/redding/JPR Rhytm and News.png",
+            url: "http://jpr.streamguys.org/jpr-rhythm"
+        },
+        {
+            name: "Radio Nueva Vida 91.3",
+            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
+            url: "http://sc1.christiannetcast.com:9138/;stream.mp3"
+        },
+        {
+            name: "95.7 The Wolf",
+            logo: "stations/images-america/redding/95.7 The Wolf.png",
+            url: "http://19493.live.streamtheworld.com/KALFFM.mp3"
         },
         {
             name: "Q97",
@@ -1422,9 +1442,19 @@
             url: "http://14953.live.streamtheworld.com/KWLZFM.mp3"
         },
         {
+            name: "Z100.1",
+            logo: "stations/images-america/redding/Z100.1.png",
+            url: "http://war.str3am.com:7930/;"
+        },
+        {
             name: "104.3 K-SHASTA",
             logo: "stations/images-america/redding/K-SHASTA.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSHAFM.mp3"
+        },
+        {
+            name: "KQMS 105.7",
+            logo: "stations/images-america/redding/KQMS.png",
+            url: "http://14543.live.streamtheworld.com:3690/KQMSFMAAC_SC"
         },
         {
             name: "106X",
@@ -1882,7 +1912,7 @@
         {
             name: "89.3 KOHL",
             logo: "stations/images-america/san_rafael/89.3 KOHL.png",
-            url: "http://ice9.securenetsystems.net/KOHL2"
+            url: "http://ice9.securenetsystems.net/KOHL2?playSessionID=32DC2B7D-E270-2CF4-ED90A34B99ADE3FD"
         },
         {
             name: "KALX",
