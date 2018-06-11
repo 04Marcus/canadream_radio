@@ -1391,8 +1391,8 @@
             url: "http://66.209.79.122:8000/;"
         },
         {
-            name: "B92.1",
-            logo: "stations/images-america/pioche/B92.1 Today's Hit Music.png",
+            name: "B92",
+            logo: "stations/images-america/pioche/B92.png",
             url: "http://54.235.51.186/cherrycreek-kxbnfmaac-ibc4"
         },
         {
