@@ -1472,28 +1472,28 @@
             url: "http://19493.live.streamtheworld.com/KALFFM.mp3"
         },
         {
-            name: "Q97",
-            logo: "stations/images-america/redding/KNCQ.png",
-            url: "https://live.wostreaming.net/direct/resultsradio-kncqfmaac-ibc3?source=tunegenie"
-        },
-        {
             name: "Wild 99.3",
             logo: "stations/images-america/redding/Wild 99.3.png",
             url: "http://14953.live.streamtheworld.com/KWLZFM.mp3"
         },
         {
-            name: "Z100.1",
+            name: "Z100",
             logo: "stations/images-america/redding/Z100.1.png",
             url: "http://war.str3am.com:7930/;"
         },
         {
-            name: "104.3 K-SHASTA",
+            name: "Fox Sports 103.9",
+            logo: "stations/images-america/redding/Fox Sports 103.9.png",
+            url: "http://c8icyelb.prod.playlists.ihrhls.com/4732_icy"
+        },
+        {
+            name: "K-SHASTA 104.3",
             logo: "stations/images-america/redding/K-SHASTA.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSHAFM.mp3"
         },
         {
             name: "KQMS 105.7",
-            logo: "stations/images-america/redding/KQMS.png",
+            logo: "stations/images-america/redding/KQMS.jpg",
             url: "http://14543.live.streamtheworld.com:3690/KQMSFMAAC_SC"
         },
         {
