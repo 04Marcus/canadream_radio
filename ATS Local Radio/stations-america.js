@@ -6,19 +6,19 @@ var stations = {
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
-            name: "KHII",
+            name: "Star 88",
+            logo: "stations/images-america/alamogordo/Star 88.png",
+            url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
+        },
+        {
+            name: "Active Radio 88.9 FM",
             logo: "stations/images-america/alamogordo/KHII.png",
             url: "http://192.99.83.153:8020/;"
         },
         {
-            name: "KRWG",
+            name: "KRWG 89.5 FM",
             logo: "stations/images-america/alamogordo/KRWG.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRWGFM.mp3"
-        },
-        {
-            name: "Star 88",
-            logo: "stations/images-america/alamogordo/Star 88.png",
-            url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
         },
         {
             name: "94Key",
@@ -26,14 +26,19 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KYEE"
         },
         {
+            name: "KALH Variety 95.1 FM",
+            logo: "stations/images-america/alamogordo/KALH.png",
+            url: "http://s4.voscast.com:8178/;"
+        },
+        {
             name: "Mix 96.7",
             logo: "stations/images-america/alamogordo/Mix 96.7.png",
             url: "http://ice3.securenetsystems.net/KNMB"
         },
         {
-            name: "KALH",
-            logo: "stations/images-america/alamogordo/KALH.png",
-            url: "http://s4.voscast.com:8178/;"
+            name: "Classic Rock 98.7",
+            logo: "stations/images-america/alamogordo/Mix 96.7.png",
+            url: "http://18133.live.streamtheworld.com/KSNMFMAAC.aac"
         },
     ],
     "albuquerque": [
@@ -273,6 +278,11 @@ var stations = {
         },
     ],
     "carlsbad": [
+        {
+            name: "Z90",
+            logo: "stations/images-america/tijuana/Z90.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHTZFMAAC.aac"
+        },
         {
             name: "Jam'n 957",
             logo: "stations/images-america/carlsbad/Jamn 957.png",
@@ -6318,6 +6328,11 @@ var stations_c2c = {
             url: "http://162.244.80.222:4274/;"
         },
         {
+            name: "100.3 The Ride",
+            logo: "stations/images-america/c2c/100.3 The Ride.png",
+            url: "http://162.244.80.222:5568/;"
+        },
+        {
             name: "KXXX 790",
             logo: "stations/images-america/c2c/KXXX 790.jpg",
             url: "http://162.244.80.222:6748/;"
@@ -6377,6 +6392,11 @@ var stations_c2c = {
             name: "KBUF",
             logo: "stations/images-america/c2c/KBUF.png",
             url: "http://ice23.securenetsystems.net/KBUF"
+        },
+        {
+            name: "Z98",
+            logo: "stations/images-america/c2c/Z98.png",
+            url: "http://ice23.securenetsystems.net:80/KSKZ"
         },
     ],
     "greatbend_ks": [
@@ -6473,6 +6493,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/KAHE.png",
             url: "http://162.244.80.222:9466/;"
         },
+        {
+            name: "Z98",
+            logo: "stations/images-america/c2c/Z98.png",
+            url: "http://ice23.securenetsystems.net:80/KSKZ"
+        },
     ],
     "oakley": [
         {
@@ -6489,6 +6514,11 @@ var stations_c2c = {
             name: "U Rock 102.5 KKCI",
             logo: "stations/images-america/c2c/U Rock 102.5 KKCI.png",
             url: "http://162.244.80.222:4274/;"
+        },
+        {
+            name: "100.3 The Ride",
+            logo: "stations/images-america/c2c/100.3 The Ride.png",
+            url: "http://162.244.80.222:5568/;"
         },
         {
             name: "KYVZ Super Hits 106.1",
