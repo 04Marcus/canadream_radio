@@ -1,6 +1,6 @@
 **CanaDream for ETS2/ATS Local Radio**
 
-+ **Oregon*: first attempt to add stations for Portland
++ **Oregon**: first attempt to add stations for Portland
 
 ======
 
