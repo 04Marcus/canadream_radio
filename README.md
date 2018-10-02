@@ -1,5 +1,9 @@
 **CanaDream for ETS2/ATS Local Radio**
 
++ **Oregon*: first attempt to add stations for Portland
+
+======
+
 + **ATS local radio**: new continous project for California, Arizona, Nevada and New Mexico
 + new logos, new stations and changed order depending on the frequencies (AM/FM) for some cities
 
