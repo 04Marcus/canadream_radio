@@ -630,4 +630,6 @@
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
+    ],
+    
 		
