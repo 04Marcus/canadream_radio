@@ -1,5 +1,11 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+03.10.2018:
++ **Oregon**: finished adding all Oregon cities (regarding the leaked map)
+
+=====
+
+02.10.2018:
 + **Oregon**: first attempt to add stations for Portland (partly from c2c - without the silent ones)
 
 ======
