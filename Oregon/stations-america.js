@@ -178,7 +178,7 @@
             url: "http://199.58.96.116:8000/stream/1/.mp3"
         },
     ],
-	"klamath_falls": [
+	"klamath_f": [
         {
             name: "KTEC 89.5 FM",
             logo: "stations/images-america/klamath_falls/KTEC.png",

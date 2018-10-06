@@ -1,7 +1,10 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+06.10.2018:
++ **Oregon**: coordinates of the cities - see cities.js
+
 03.10.2018:
-+ **Oregon**: finished adding all Oregon cities (regarding the leaked map)
++ **Oregon**: finished adding all Oregon cities
 
 =====
 
