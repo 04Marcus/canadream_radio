@@ -1,5 +1,10 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+07.10.2018:
++ **Carson City**: added new stations and reactivated Alice 96.5
+
+=====
+
 06.10.2018:
 + **Oregon**: coordinates of the cities - see cities.js
 
