@@ -86,7 +86,7 @@
 		{
             name: "KVIP Radio 89.5 FM",
             logo: "stations/images-america/burns/KVIP Radio 89.5 FM.png",
-            url: "http://sc1.christiannetcast.com:9112/"
+            url: "http://sc1.christiannetcast.com:9112/;"
         },
         {
             name: "Oregon Public Broadcasting 90.1 FM",
@@ -111,8 +111,8 @@
             url: "http://jpr.streamguys.org:80/jpr-rhythm"
         },
         {
-            name: "K-Dock 92.9",
-            logo: "stations/images-america/coos_bay/K-Dock 92.9.png",
+            name: "92.9 K-Dock",
+            logo: "stations/images-america/coos_bay/92.9 K-Dock.png",
             url: "http://ais-sa1.streamon.fm/7220_24k.aac"
         },
         {
@@ -174,7 +174,7 @@
         },
 		{
             name: "Hope 107.9 FM",
-            logo: "stations/images-america/eugene/102.7 KYTE FM.png",
+            logo: "stations/images-america/eugene/Hope 107.9 FM.png",
             url: "http://199.58.96.116:8000/stream/1/.mp3"
         },
     ],
@@ -185,19 +185,9 @@
             url: "http://kteclive.oit.edu:8000/live.mp3"
         },
         {
-            name: "92.5 KLAD",
-            logo: "stations/images-america/klamath_falls/KLAD 92.5 FM.png",
-            url: "https://ice8.securenetsystems.net/KLADFM"
-        },
-        {
             name: "93.7 Now FM",
             logo: "stations/images-america/medford/93.7 Now FM.png",
             url: "http://13693.live.streamtheworld.com/KTMTFMAAC_SC"
-        },
-        {
-            name: "94.9 The Rock",
-            logo: "stations/images-america/klamath_falls/94.9 The Rock.jpg",
-            url: "https://ice6.securenetsystems.net/KAGOFM"
         },
         {
             name: "KIX 96",
@@ -208,11 +198,6 @@
             name: "Hot 98.9 FM",
             logo: "stations/images-america/medford/Hot 98.9 FM.png",
             url: "http://ic2.mainstreamnetwork.com/krvc-fm"
-        },
-        {
-            name: "99.5 The Fox",
-            logo: "stations/images-america/klamath_falls/Hot 98.9 FM.png",
-            url: "https://ice10.securenetsystems.net/KFXXFM"
         },
         {
             name: "104.7 The Eagle",
@@ -230,7 +215,7 @@
             url: "http://ice10.securenetsystems.net/KKRB"
         },
     ],
-	"lakeview": [
+    "lakeview": [
         {
             name: "Oregon Public Broadcasting 88.7 FM",
             logo: "stations/images-america/oregon/OPB.png",
@@ -242,13 +227,8 @@
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
-            name: "92.5 KLAD",
-            logo: "stations/images-america/klamath_falls/KLAD 92.5 FM.png",
-            url: "https://ice8.securenetsystems.net/KLADFM"
-        },
-        {
             name: "93.7 Now FM",
-            logo: "stations/images-america/klamath_falls/93.7 Now FM.png",
+            logo: "stations/images-america/medford/93.7 Now FM.png",
             url: "http://13693.live.streamtheworld.com/KTMTFMAAC_SC"
         },
     ],
@@ -262,11 +242,6 @@
             name: "KSKQ 94.1 FM",
             logo: "stations/images-america/medford/KSKQ 94.1 FM.png",
             url: "http://174.37.252.208:8524/;stream.mp3;"
-        },
-        {
-            name: "92.5 KLAD",
-            logo: "stations/images-america/klamath_falls/KLAD 92.5 FM.png",
-            url: "https://ice8.securenetsystems.net/KLADFM"
         },
         {
             name: "93.7 Now FM",
@@ -441,12 +416,7 @@
         },
         {
             name: "95.3 U Rock",
-            logo: "stations/images-america/pendleton/95.3 U Rock.png",
-            url: "http://ice66.securenetsystems.net/KLKY"
-        },
-        {
-            name: "95.3 U Rock",
-            logo: "stations/images-america/pendleton/95.3 U Rock.png",
+            logo: "stations/images-america/pendleton/95.3 U Rock.jpg",
             url: "http://ice66.securenetsystems.net/KLKY"
         },
         {
@@ -476,12 +446,12 @@
         },
         {
             name: "102.7 KORD",
-            logo: "stations/images-america/pendleton/102.3 The River.png",
+            logo: "stations/images-america/pendleton/102.7 KORD.png",
             url: "http://54.196.154.68/townsquare-kordfmaac-ibc3"
         },
         {
             name: "103.5 K-Wheat",
-            logo: "stations/images-america/pendleton/102.3 The River.png",
+            logo: "stations/images-america/pendleton/103.5 K-Wheat.png",
             url: "http://18743.live.streamtheworld.com/KWHTFMAAC.aac"
         },
         {

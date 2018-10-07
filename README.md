@@ -1,5 +1,7 @@
 **CanaDream for ETS2/ATS Local Radio**
 
++ **Oregon**: fixed a few issues (missing logos, a typo of the folder of Coos Bay, etc.) + deleted all stations of mybasin.com, because of no international streaming
+
 07.10.2018:
 + **Carson City**: added new stations and reactivated Alice 96.5
 
