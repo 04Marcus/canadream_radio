@@ -457,7 +457,7 @@
     "newport": [
         {
             name: "KNPT 1310 AM",
-            logo: "stations/images-america/newport/KNPT 1310 AM.jpg",
+            logo: "stations/images-america/newport/KNPT.jpg",
             url: "http://68.116.40.122:88/broadwave.mp3"
         },
         {
