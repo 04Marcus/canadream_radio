@@ -12,7 +12,7 @@
         {
             name: "Coast Community Radio 90.9 FM",
             logo: "stations/images-america/astoria/KCPB.png",
-            url: "http://ice41.securenetsystems.net/KBGE2"
+            url: "https://ice5.securenetsystems.net/KMUN"
         },
         {
             name: "94.9 The Bridge",
