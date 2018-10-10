@@ -3,6 +3,7 @@
 
 10.10:
 + **Albuquerque**: new stations 104.1 The Edge and 104.7 KABQ added
++ **Bakersfield**: new stations Comedy 800, Sunny 105.3 added
 + **Portland**: new station ALT 102.3 added
 + **Reno + Carson City**: a few new stations
 + **San Diego**: new stations Channel 93.3, Star 94.1 and Jam'n 95.7 added
