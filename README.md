@@ -2,7 +2,7 @@
 
 
 10.10:
-+ **San Diego**: new station Channel 93.3 added
++ **San Diego**: new stations Channel 93.3, Star 94.1 and Jam'n 95.7 added
 + **Portland**: new station ALT 102.3 added
 + **Reno + Carson City**: a few new stations
 

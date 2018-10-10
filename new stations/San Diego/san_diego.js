@@ -10,7 +10,7 @@
             url: "http://listen.jazz88.org/ksds.mp3"
         },
         {
-            name: "KPBS",
+            name: "KPBS 89.5",
             logo: "stations/images-america/san_diego/KPBS.png",
             url: "http://kpbs.streamguys1.com/kpbs-aac"
         },
@@ -28,6 +28,16 @@
             name: "Air1",
             logo: "stations/images-america/san_diego/Air1.png",
             url: "http://emf.streamguys1.com/sa010_mp3_high_web"
+        },
+        {
+            name: "Star 94.1",
+            logo: "stations/images-america/san_diego/Star 94.1.png",
+            url: "https://c13.prod.playlists.ihrhls.com/253_icy"
+        },
+        {
+            name: "Jam'n 95.7",
+            logo: "stations/images-america/san_diego/Jam'n 95.7.png",
+            url: "https://c13.prod.playlists.ihrhls.com/261_icy"
         },
         {
             name: "Radio Latina 104.5",
