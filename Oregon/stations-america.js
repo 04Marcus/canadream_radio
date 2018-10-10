@@ -10,7 +10,7 @@
             url: "http://stream3.opb.org/radio.mp3"
         },
         {
-            name: "Coast Community Radio 90.9 FM",
+            name: "Coast Community Radio 91.9 FM",
             logo: "stations/images-america/astoria/KCPB.png",
             url: "https://ice5.securenetsystems.net/KMUN"
         },
