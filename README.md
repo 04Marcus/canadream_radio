@@ -1,5 +1,13 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+
+10.10:
++ **San Diego**: new station Channel 93.3 added
++ **Portland**: new station ALT 102.3 added
++ **Reno + Carson City**: a few new stations
+
+====
+
 + **Oregon**: fixed a few issues (missing logos, a typo of the folder of Coos Bay, etc.) + deleted all stations of mybasin.com, because of no international streaming
 
 07.10.2018:

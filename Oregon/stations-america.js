@@ -732,6 +732,11 @@
             url: "http://c13icyelb.prod.playlists.ihrhls.com/1961_icy"
         },
         {
+            name: "ALT 102.3",
+            logo: "stations/images-america/portland/ALT 102.3.png",
+            url: "https://c13.prod.playlists.ihrhls.com/6384_icy"
+        },
+        {
             name: "102.7 Kyte FM",
             logo: "stations/images-america/eugene/102.7 KYTE FM.png",
             url: "http://68.116.40.122:501/broadwave.mp3"
