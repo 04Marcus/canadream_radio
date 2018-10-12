@@ -1,6 +1,11 @@
 **CanaDream for ETS2/ATS Local Radio**
 
 
+12.10:
++ **LA, Sacramento, San Francisco, Stockton, Phoenix**: added a few new stations - see images & stations.js
+
+====
+
 10.10:
 + **Albuquerque**: new stations 104.1 The Edge and 104.7 KABQ added
 + **Bakersfield**: new stations Comedy 800, Sunny 105.3 added
