@@ -1,5 +1,7 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+13.10.:
++ **Oakland**: new stations - KPOO-FM 89.5 and 90.5 The Edge
 
 12.10:
 + **LA, Sacramento, San Francisco, Stockton, Phoenix**: added a few new stations - see images & stations.js

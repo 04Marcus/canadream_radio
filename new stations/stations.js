@@ -304,6 +304,25 @@
 	
 	
 	
+    "oakland": [
+        {
+            name: "KPOO-FM 89.5",
+            logo: "stations/images-america/oakland/KPOO-FM 89.5.png",
+            url: "http://amber.streamguys.com:5220/xstream"
+        },
+        {
+            name: "90.5 The Edge",
+            logo: "stations/images-america/oakland/90.5 The Edge.png",
+            url: "http://kvhs.smrn.com:5561/live"
+        },
+        {
+            name: "KGPC 96.9",
+            logo: "stations/images-america/oakland/KGPC.png",
+            url: "http://icy2.abacast.com/9thfloor-9thflooraac-64"
+        },
+    ],
+	
+	
 	
 	    "phoenix": [
         {
