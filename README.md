@@ -1,5 +1,8 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+14.10.:
++ **HD-Stations**: added Evolution (KIIS-FM-HD2 in LA) and AT40 (KMEL-HD2 in San Francisco)
+
 13.10.:
 + **Oakland**: new stations - KPOO-FM 89.5 and 90.5 The Edge
 
