@@ -691,7 +691,7 @@
         {
             name: "American Top 40 - KMEL-HD2",
             logo: "stations/images-america/san_francisco/American Top 40 - KMEL-HD2.png",
-            url: "https://c10.prod.playlists.ihrhls.com/293_icy"
+            url: "http://c2icyelb.prod.playlists.ihrhls.com/4802_icy"
         },
         {
             name: "107.7 The Bone",
