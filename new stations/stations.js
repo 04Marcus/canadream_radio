@@ -317,7 +317,7 @@
         },
         {
             name: "90.5 The Edge",
-            logo: "stations/images-america/oakland/90.5 The Edge.png",
+            logo: "stations/images-america/oakland/90.5 The Edge.jpg",
             url: "http://kvhs.smrn.com:5561/live"
         },
         {
