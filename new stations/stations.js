@@ -408,6 +408,11 @@
             url: "https://c11.prod.playlists.ihrhls.com/61_icy"
         },
         {
+            name: "Evolution - KZZP-HD2",
+            logo: "stations/images-america/los_angeles/Evolution.png",
+            url: "https://c3.prod.playlists.ihrhls.com/5953_icy"
+        },
+        {
             name: "Power 107",
             logo: "stations/images-america/phoenix/Power 107.png",
             url: "http://s14.myradiostream.com:5748/;"
