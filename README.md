@@ -1,5 +1,8 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+25.11.:
++ **Tucson**: Tucson reworked - new order depending on frequencies, new stations (HD-Stations, too), partly new logos
+
 14.10.:
 + **HD-Stations**: added Evolution (KIIS-FM-HD2 in LA & KZZP-HD2 in Phoenix) and AT40 (KMEL-HD2 in San Francisco)
 
