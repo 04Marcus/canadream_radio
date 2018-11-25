@@ -1,4 +1,33 @@
 
+    "socorro": [
+        {
+            name: "KUNM 88.7",
+            logo: "stations/images-america/socorro/KUNM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128.mp3"
+        },
+        {
+            name: "Relevant Radio 91.9",
+            logo: "stations/images-america/socorro/Relevant Radio.png",
+            url: "http://relevantradio-ice.streamguys.us/relevantradio-web"
+        },
+        {
+            name: "Mine Country 102.1",
+            logo: "stations/images-america/socorro/Mine Country 102.1.jpg",
+            url: "http://216.161.45.111:8000/public"
+        },
+        {
+            name: "104.7 KABQ",
+            logo: "stations/images-america/albuquerque/104.7 KABQ.png",
+            url: "https://c4.prod.playlists.ihrhls.com/6305_icy"
+        },
+        {
+            name: "Z106.3",
+            logo: "stations/images-america/socorro/Z106.3.png",
+            url: "https://ice42.securenetsystems.net/KDLWFM"
+        },
+    ],
+
+
     "tucson": [
         {
             name: "Family Life Radio 88.5",
