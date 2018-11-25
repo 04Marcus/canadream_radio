@@ -56,6 +56,11 @@
             url: "https://14983.live.streamtheworld.com/KLPXFMAAC.aac"
         },
         {
+            name: "96.1 KLPX-HD2",
+            logo: "stations/images-america/tucson/96.1 KLPX-HD2.jpg",
+            url: "http://14013.live.streamtheworld.com/KLPXH2FM_SC"
+        },
+        {
             name: "97.1 Bull",
             logo: "stations/images-america/tucson/97.1 Bull.png",
             url: "http://c6icyelb.prod.playlists.ihrhls.com/69_icy"
@@ -86,9 +91,14 @@
             url: "http://ls1.int.live365.net:8000/a25079_live"
         },
         {
-            name: "Rock 102.1",
-            logo: "stations/images-america/tucson/Rock 102.1.png",
+            name: "Rock 102.1 KFMA",
+            logo: "stations/images-america/tucson/Rock 102.1 KFMA.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFMAFM.mp3"
+        },
+        {
+            name: "Rock 102.1 KFMA-HD2",
+            logo: "stations/images-america/tucson/Rock 102.1 KFMA-HD2.jpg",
+            url: "http://14013.live.streamtheworld.com/KFMAH2FMAAC.aac"
         },
         {
             name: "104.1 KQTH",
