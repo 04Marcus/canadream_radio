@@ -1,5 +1,10 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+26.12.:
++ **Canadream**: fixed stream urls and added new logos - no silent stations anymore
+
+====
+
 25.11.:
 + **Tucson**: Tucson reworked - new order depending on frequencies, new stations (HD-Stations, too), partly new logos
 + **Socorro**: new station Z106.3 + frequencies
