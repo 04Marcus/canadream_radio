@@ -1076,7 +1076,7 @@ var stations_canadream = {
         },
 		{
             name: "96.9 CKOI",
-            logo: "stations/images-america/canadream/montreal/96.9 CKOI.svg",
+            logo: "stations/images-america/canadream/montreal/96.9 CKOI.png",
             url: "http://icecast.cogecomedia.com:8000/ckoi.mp3"
         },
         /*{
@@ -1101,7 +1101,7 @@ var stations_canadream = {
         },
         {
             name: "CIBL 101.5",
-            logo: "stations/images-america/canadream/montreal/CIBL 101.5,jpg",
+            logo: "stations/images-america/canadream/montreal/CIBL 101.5.jpg",
             url: "http://stream02.ustream.ca/cibl128.mp3"
         },
         /*{
@@ -2322,5 +2322,3 @@ var stations_canadream = {
         },
     ],
 };
-
-stations = $.extend(stations, stations_canadream);
