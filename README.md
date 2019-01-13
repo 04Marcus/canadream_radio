@@ -1,5 +1,8 @@
 **CanaDream for ETS2/ATS Local Radio**
 
+13.01.:
++ **Base Map**: new stations/removed non existent stations + frequency changes in LA, Ehrenberg, Yuma, El Centro, Indio 
+
 26.12.:
 + **Canadream**: fixed stream urls and added new logos - no silent stations anymore
 

@@ -1,5 +1,0 @@
-        {
-            name: "i101 FM",
-            logo: "stations/images-america/coos_bay/i101 FM.png",
-            url: "http://54.213.95.87/brooke-kskrfmaac-ibc4"
-        },
