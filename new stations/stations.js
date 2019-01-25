@@ -265,6 +265,74 @@
         },
     ],
 	
+	    "coos_bay": [
+        {
+            name: "KUGN 590 AM",
+            logo: "stations/images-america/oregon/KUGN 590 AM.png",
+            url: "https://16693.live.streamtheworld.com:443/KUGNAMAAC_SC"
+        },
+        {
+            name: "KDUN 1030 AM",
+            logo: "stations/images-america/coos_bay/KDUN 1030.jpg",
+            url: "http://hestia.cdnstream.com/1571_128"
+        },
+        {
+            name: "KMHS Pirate Radio 1420 AM",
+            logo: "stations/images-america/coos_bay/KMHS Pirate Radio 91.3 FM.png",
+            url: "http://kmhsam.coos-bay.k12.or.us:8000/kmhsam"
+        },
+        {
+            name: "KLCC 88.1 FM",
+            logo: "stations/images-america/oregon/KLCC.png",
+            url: "https://tektite.streamguys1.com:5025/klcc.mp3"
+        },
+        {
+            name: "JPR Rhythm & News 88.5 FM",
+            logo: "stations/images-america/c2c/JPR Rhythm & News.png",
+            url: "http://jpr.streamguys.org:80/jpr-rhythm"
+        },
+        {
+            name: "KMHS Pirate Radio 91.3 FM",
+            logo: "stations/images-america/coos_bay/KMHS Pirate Radio 91.3 FM.png",
+            url: "http://kmhs.coos-bay.k12.or.us:8000/kmhsfm"
+        },
+        {
+            name: "KRVM 92.1",
+            logo: "stations/images-america/eugene/91.9 KRVM.png",
+            url: "http://lin2.san.fast-serv.com:6008/stream"
+        },
+        {
+            name: "K-Dock 92.9",
+            logo: "stations/images-america/coos_bay/92.9 K-Dock.png",
+            url: "http://ais-sa1.streamon.fm/7220_24k.aac"
+        },
+        {
+            name: "K-Light 98.7 FM",
+            logo: "stations/images-america/coos_bay/K-Light 98.7 FM.png",
+            url: "http://216.110.194.86:8000/kytt"
+        },
+        {
+            name: "i101 FM",
+            logo: "stations/images-america/coos_bay/i101 FM.png",
+            url: "http://34.218.223.243/brooke-kskrfmaac-ibc4"
+        },
+        {
+            name: "Best Country 103",
+            logo: "stations/images-america/coos_bay/Best Country 103.png",
+            url: "http://54.188.153.142/brooke-krsbfmaac-ibc4"
+        },
+        {
+            name: "104.5 Sam FM",
+            logo: "stations/images-america/coos_bay/104.5 Sam FM.png",
+            url: "http://54.184.37.160/brooke-kkmxfmaac-ibc4"
+        },
+        {
+            name: "The Legend 105.9 FM",
+            logo: "stations/images-america/coos_bay/105.9 The Legend.jpg",
+            url: "http://kljn.streamguys1.com/live"
+        },
+    ],
+	
 	
     "ehrenberg": [
         {
