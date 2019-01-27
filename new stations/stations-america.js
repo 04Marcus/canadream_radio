@@ -3733,7 +3733,7 @@ var stations = {
             url: "http://104.50.134.6:8000/stream/3/"
         },
 		*/
-    ],https://ice24.securenetsystems.net/KWNA?playSessionID=A07DA284-BEF0-21AF-945B704F431E1536
+    ],
     "yuma": [
         {
             name: "KAWC 88.9",
