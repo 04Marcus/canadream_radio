@@ -113,7 +113,7 @@
     ],
 	
 	
-	    "bakersfield": [
+	"bakersfield": [
         {
             name: "88.3 LifeFM",
             logo: "stations/images-america/bakersfield/KAXL.png",
@@ -191,7 +191,7 @@
         },
     ],
 	
-	    "burns": [
+	"burns": [
         {
             name: "KVIP Radio 89.5 FM",
             logo: "stations/images-america/burns/KVIP Radio 89.5 FM.png",
@@ -225,7 +225,7 @@
     ],
 	
 	
-	    "carson_city": [
+	"carson_city": [
         {
             name: "KUNR 88.7",
             logo: "stations/images-america/reno/KUNR 88.7.png",
@@ -293,7 +293,7 @@
         },
     ],
 	
-	    "coos_bay": [
+	"coos_bay": [
         {
             name: "KUGN 590 AM",
             logo: "stations/images-america/oregon/KUGN 590 AM.png",
@@ -465,7 +465,7 @@
     ],
 	
 	
-	    "ely": [
+	"ely": [
         {
             name: "KNPR 88.7",
             logo: "stations/images-america/nevada/KNPR.svg",
@@ -493,7 +493,7 @@
         },
     ],  
 
-	    "fresno": [
+	"fresno": [
         {
             name: "KVPR 89.3",
             logo: "stations/images-america/bakersfield/Valley Public Radio.png",
@@ -575,6 +575,11 @@
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMJAM.mp3"
         },
         {
+            name: "940 ESPN",
+            logo: "stations/images-america/fresno/940 ESPN.png",
+            url: "https://ice5.securenetsystems.net/KFIG"
+        },
+        {
             name: "Fox Sports Radio 1340",
             logo: "stations/images-america/fresno/Fox Sports Radio 1340.png",
             url: "https://c5.prod.playlists.ihrhls.com/5227_icy"
@@ -583,6 +588,11 @@
             name: "KYOS 1480 AM",
             logo: "stations/images-america/fresno/KYOS.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KYOSAMAAC.aac"
+        },
+        {
+            name: "1680 KGED",
+            logo: "stations/images-america/fresno/1680 KGED.png",
+            url: "http://173.193.205.96:7403/stream"
         },
     ],
 	
@@ -634,6 +644,56 @@
             url: "http://ice6.securenetsystems.net/KCDZ"
         },
     ],    
+	
+	
+    "huron": [
+        {
+            name: "Family Radio 90.7",
+            logo: "stations/images-america/huron/Family Radio West Coast.svg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
+        },
+        {
+            name: "93.7 Kiss Country",
+            logo: "stations/images-america/huron/Kiss Country.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSKSFM.mp3"
+        },
+        {
+            name: "K-LOVE 101.5",
+            logo: "stations/images-america/huron/K-LOVE.png",
+            url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
+        },
+        {
+            name: "103.7 The Beat",
+            logo: "stations/images-america/huron/The Beat.png",
+            url: "http://c11icyelb.prod.playlists.ihrhls.com/149_icy"
+        },
+        {
+            name: "K-Jewel 105.5",
+            logo: "stations/images-america/fresno/K-Jewel 105.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KJWLFMAAC.aac"
+        },
+        {
+            name: "Air1 106.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "http://emf.streamguys1.com/sa010_mp3_high_web"
+        },
+        {
+            name: "KMJ Now 580",
+            logo: "stations/images-america/fresno/KMJ.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMJAM.mp3"
+        },
+        {
+            name: "940 ESPN",
+            logo: "stations/images-america/fresno/940 ESPN.png",
+            url: "https://ice5.securenetsystems.net/KFIG"
+        },
+        {
+            name: "1680 KGED",
+            logo: "stations/images-america/fresno/1680 KGED.png",
+            url: "http://173.193.205.96:7403/stream"
+        },
+    ],   
+	
 	
 	
     "jackpot": [
@@ -850,7 +910,7 @@
     ],
 	
 	
-	    "oakdale": [
+	"oakdale": [
         {
             name: "Capital Public Radio 91.3 FM",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
@@ -920,7 +980,7 @@
 	
 	
 	
-	    "oxnard": [
+	"oxnard": [
         {
             name: "KCLU 88.3 FM",
             logo: "stations/images-america/santa_maria/KCLU.png",
@@ -1130,7 +1190,7 @@
     ],
 	
 	
-	    "sacramento": [
+	"sacramento": [
         {
             name: "KQEI 89.3 FM",
             logo: "stations/images-america/san_francisco/KQED Public Radio.png",
@@ -1314,10 +1374,10 @@
 	
 	
 	
-	    "santa_cruz": [
+	"santa_cruz": [
         {
             name: "KZSC 88.1 FM",
-            logo: "stations/images-america/santa_cruz/KZSC.jpg",
+            logo: "stations/images-america/santa_cruz/KZSC 88.1 FM.png",
             url: "http://188.165.192.5:8242/kzsclow"
         },
         {
@@ -1389,7 +1449,7 @@
 	
 	
 	
-	    "santa_fe": [
+	"santa_fe": [
         {
             name: "KANW 89.1",
             logo: "stations/images-america/albuquerque/KANW.png",
@@ -1488,7 +1548,7 @@
     ],
 	
 	
-	    "santa_maria": [
+	"santa_maria": [
         {
             name: "KCLU 89.7 FM",
             logo: "stations/images-america/santa_maria/KCLU.png",
@@ -1522,7 +1582,7 @@
     ],
 	
 	
-	    "san_diego": [
+	"san_diego": [
         {
             name: "Jazz 88.3",
             logo: "stations/images-america/san_diego/Jazz 88.3.jpg",
@@ -1550,7 +1610,7 @@
         },
         {
             name: "Air1",
-            logo: "stations/images-america/san_diego/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa010_mp3_high_web"
         },
         {
@@ -1608,7 +1668,7 @@
 	
 	
 	
-	    "show_low": [
+	"show_low": [
         {
             name: "KNAU 90.7 FM",
             logo: "stations/images-america/show_low/KNAU.png",

@@ -1052,7 +1052,7 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFLXFM.mp3"
         },
     ],
-	    "fresno": [
+	"fresno": [
         {
             name: "KVPR 89.3",
             logo: "stations/images-america/bakersfield/Valley Public Radio.png",
@@ -1134,6 +1134,11 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMJAM.mp3"
         },
         {
+            name: "940 ESPN",
+            logo: "stations/images-america/fresno/940 ESPN.png",
+            url: "https://ice5.securenetsystems.net/KFIG"
+        },
+        {
             name: "Fox Sports Radio 1340",
             logo: "stations/images-america/fresno/Fox Sports Radio 1340.png",
             url: "https://c5.prod.playlists.ihrhls.com/5227_icy"
@@ -1142,6 +1147,11 @@ var stations = {
             name: "KYOS 1480 AM",
             logo: "stations/images-america/fresno/KYOS.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KYOSAMAAC.aac"
+        },
+        {
+            name: "1680 KGED",
+            logo: "stations/images-america/fresno/1680 KGED.png",
+            url: "http://173.193.205.96:7403/stream"
         },
     ],
     "g_canyon_vlg": [
@@ -1321,12 +1331,7 @@ var stations = {
     ],
     "huron": [
         {
-            name: "K-Love",
-            logo: "stations/images-america/huron/K-LOVE.png",
-            url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
-        },
-        {
-            name: "Family Radio West Coast",
+            name: "Family Radio 90.7",
             logo: "stations/images-america/huron/Family Radio West Coast.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
@@ -1335,24 +1340,42 @@ var stations = {
             logo: "stations/images-america/huron/Kiss Country.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSKSFM.mp3"
         },
-        /*
         {
-            name: "KOKO",
-            logo: "stations/images-america/huron/KOKO.png",
-            url: "http://ice8.securenetsystems.net/KOKO"
+            name: "K-LOVE 101.5",
+            logo: "stations/images-america/huron/K-LOVE.png",
+            url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
-        */
         {
             name: "103.7 The Beat",
             logo: "stations/images-america/huron/The Beat.png",
             url: "http://c11icyelb.prod.playlists.ihrhls.com/149_icy"
         },
         {
-            name: "K Jewel 105.5",
-            logo: "stations/images-america/huron/K-JEWEL.png",
+            name: "K-Jewel 105.5",
+            logo: "stations/images-america/fresno/K-Jewel 105.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KJWLFMAAC.aac"
         },
-    ],    
+        {
+            name: "Air1 106.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "http://emf.streamguys1.com/sa010_mp3_high_web"
+        },
+        {
+            name: "KMJ Now 580",
+            logo: "stations/images-america/fresno/KMJ.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMJAM.mp3"
+        },
+        {
+            name: "940 ESPN",
+            logo: "stations/images-america/fresno/940 ESPN.png",
+            url: "https://ice5.securenetsystems.net/KFIG"
+        },
+        {
+            name: "1680 KGED",
+            logo: "stations/images-america/fresno/1680 KGED.png",
+            url: "http://173.193.205.96:7403/stream"
+        },
+    ],     
     "indio": [
         {
             name: "88.5 KPSC",
@@ -2940,10 +2963,10 @@ var stations = {
             url: "https://c13icy.prod.playlists.ihrhls.com/4319_icy"
         },
     ],
-	"santa_cruz": [
+	    "santa_cruz": [
         {
             name: "KZSC 88.1 FM",
-            logo: "stations/images-america/santa_cruz/KZSC.jpg",
+            logo: "stations/images-america/santa_cruz/KZSC 88.1 FM.png",
             url: "http://188.165.192.5:8242/kzsclow"
         },
         {
@@ -2993,7 +3016,7 @@ var stations = {
         },
         {
             name: "Real Oldies 105.1-HD2",
-            logo: "stations/images-america/santa_cruz/Real Oldies 105.1-HD2.png",
+            logo: "stations/images-america/0_general_logos/Real Oldies.png",
             url: "https://c8.prod.playlists.ihrhls.com/4717_icy"
         },
         {
