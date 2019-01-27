@@ -191,6 +191,39 @@
         },
     ],
 	
+	    "burns": [
+        {
+            name: "KVIP Radio 89.5 FM",
+            logo: "stations/images-america/burns/KVIP Radio 89.5 FM.png",
+            url: "http://sc1.christiannetcast.com:9112/;"
+        },
+        {
+            name: "Oregon Public Broadcasting 90.1 FM",
+            logo: "stations/images-america/oregon/OPB.png",
+            url: "http://stream3.opb.org/radio.mp3"
+        },
+        {
+            name: "Effect Radio 90.5 FM",
+            logo: "stations/images-america/roswell/Effect Radio.png",
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+        },
+        {
+            name: "KMHD Jazz Radio 91.7 FM",
+            logo: "stations/images-america/portland/KMHD.png",
+            url: "http://stream1.opb.org/kmhd.mp3"
+        },
+        {
+            name: "94.5 KJDY",
+            logo: "stations/images-america/burns/94.5 KJDY.png",
+            url: "http://18313.live.streamtheworld.com/KJDYFM.mp3"
+        },
+        {
+            name: "New Life Radio 97.5",
+            logo: "stations/images-america/burns/New Life Radio 97.5.png",
+            url: "http://ic1.christiannetcast.com/knlr-fm"
+        },
+    ],
+	
 	
 	    "carson_city": [
         {
@@ -437,6 +470,33 @@
     ],
 	
 	
+	    "ely": [
+        {
+            name: "KNPR 88.7",
+            logo: "stations/images-america/nevada/KNPR.svg",
+            url: "http://66.209.79.122:8000/;"
+        },
+        {
+            name: "CSN 91.3",
+            logo: "stations/images-america/camp_verde/CSN.png",
+            url: "http://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "Pilgrim Radio 91.9",
+            logo: "stations/images-america/ely/Pilgrim Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC.aac"
+        },
+        {
+            name: "92.7 Jack FM",
+            logo: "stations/images-america/ely/92.7 Jack FM.png",
+            url: "http://208.70.75.109:8100/stream"
+        },
+        {
+            name: "KELY 1230",
+            logo: "stations/images-america/ely/KELY.png",
+            url: "http://173.193.205.96:7200/stream"
+        },
+    ],  
 
 	    "fresno": [
         {
@@ -580,6 +640,89 @@
         },
     ],    
 	
+	
+    "jackpot": [
+        {
+            name: "Effect Radio 88.9 FM",
+            logo: "stations/images-america/roswell/Effect Radio.png",
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+        },
+        {
+            name: "Boise State Public Radio 91.3",
+            logo: "stations/images-america/jackpot/Boise State Public Radio.png",
+            url: "https://icy1.boisestatepublicradio.org/KBSX-mp3"
+        },
+        {
+            name: "95.7 KEZJ",
+            logo: "stations/images-america/jackpot/95.7 KEZJ.png",
+            url: "http://54.196.154.68/townsquare-kezjfmaac-ibc3"
+        },
+        {
+            name: "98.3 The Snake",
+            logo: "stations/images-america/jackpot/98.3 The Snake.png",
+            url: "http://54.196.154.68/townsquare-ksnqfmaac-ibc3"
+        },
+        {
+            name: "1270 AM KTFI",
+            logo: "stations/images-america/jackpot/1270 AM KTFI.png",
+            url: "http://salt-light-stream-01.miriamtech.net:8000/live"
+        },
+        {
+            name: "1310 KLIX",
+            logo: "stations/images-america/jackpot/1310 KLIX.png",
+            url: "http://54.196.154.68/townsquare-klixamaac-ibc3"
+        },
+    ],
+	
+	
+	
+    "hornbrook": [
+        {
+            name: "JPR Rhythm & News 89.1",
+            logo: "stations/images-america/hornbrook/107.5 Kiss FM.png",
+            url: "http://jpr.streamguys.org/jpr-rhythm"
+        },
+        {
+            name: "JPR Classics & News 91.3",
+            logo: "stations/images-america/hornbrook/107.5 Kiss FM.png",
+            url: "http://jpr.streamguys.org/jpr-classics"
+        },
+        {
+            name: "92.5 KLAD",
+            logo: "stations/images-america/klamath_falls/KLAD 92.5 FM.png",
+            url: "https://ice8.securenetsystems.net/KLADFM"
+        },
+        {
+            name: "93.7 Now FM",
+            logo: "stations/images-america/medford/93.7 Now FM.png",
+            url: "http://13693.live.streamtheworld.com/KTMTFMAAC_SC"
+        },
+        {
+            name: "95.7 KBOY",
+            logo: "stations/images-america/medford/95.7 KBOY.png",
+            url: "http://17963.live.streamtheworld.com/KBOYFMAAC_SC"
+        },
+        {
+            name: "KIX 96",
+            logo: "stations/images-america/klamath_falls/KIX 96.png",
+            url: "http://ice10.securenetsystems.net/KFLSFM"
+        },
+        {
+            name: "Hot 98.9",
+            logo: "stations/images-america/hornbrook/Hot 98.9.png",
+            url: "http://50.22.253.46:80/krvc-fm"
+        },
+        {
+            name: "Lite 102 FM",
+            logo: "stations/images-america/hornbrook/Lite 102.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCMXFM.mp3"
+        },
+        {
+            name: "The Drive 102.7",
+            logo: "stations/images-america/medford/The Drive 102.7.png",
+            url: "http://ic2.mainstreamnetwork.com/kcna-fm"
+        },
+    ],
 	
 	
 	
@@ -1529,6 +1672,33 @@
     ],
 	
 	
+    "winnemucca": [
+        {
+            name: "Effect Radio 88.9",
+            logo: "stations/images-america/roswell/Effect Radio.png",
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+        },
+        {
+            name: "CSN 89.9",
+            logo: "stations/images-america/winnemucca/CSN.png",
+            url: "http://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "Pilgrim Radio 90.7",
+            logo: "stations/images-america/ely/Pilgrim Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC.aac"
+        },
+        {
+            name: "KUNR 91.3",
+            logo: "stations/images-america/winnemucca/KUNR.png",
+            url: "http://108.178.13.122:8164/stream"
+        },
+        {
+            name: "92.7 Buckaroo County",
+            logo: "stations/images-america/winnemucca/92.7 Buckaroo County.png",
+            url: "https://ice24.securenetsystems.net/KWNA"
+        },
+    ],
 	
     "yuma": [
         {
