@@ -3527,20 +3527,20 @@ var stations = {
             logo: "stations/images-america/tucumcari/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk001_mp3_high_web"
         },
-    ],
-    "tonopah": [
+    ],    
+	"tonopah": [
         {
-            name: "KNPR",
-            logo: "stations/images-america/nevada/KNPR.svg",
-            url: "http://66.209.79.122:8000/;"
-        },
-        {
-            name: "CSN",
+            name: "CSN 89.5",
             logo: "stations/images-america/tonopah/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
-            name: "KIBS",
+            name: "KNPR 91.7",
+            logo: "stations/images-america/nevada/KNPR.svg",
+            url: "http://66.209.79.122:8000/;"
+        },
+        {
+            name: "KIBS 101.7",
             logo: "stations/images-america/tonopah/KIBS.png",
             url: "http://ic2.mainstreamnetwork.com/kibs-fm"
         },
