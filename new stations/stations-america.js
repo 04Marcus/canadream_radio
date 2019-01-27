@@ -3545,21 +3545,71 @@ var stations = {
             url: "http://ic2.mainstreamnetwork.com/kibs-fm"
         },
     ],
-    "truckee": [
+	"truckee": [
         {
-            name: "KUNR",
+            name: "KUNR 88.7",
             logo: "stations/images-america/truckee/KUNR.png",
             url: "http://108.178.13.122:8164/stream"
         },
         {
-            name: "Capital Public Radio",
+            name: "Capital Public Radio 90.5",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
         {
-            name: "Relevant Radio",
+            name: "Pilgrim Radio 91.3",
+            logo: "stations/images-america/ely/Pilgrim Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC.aac"
+        },
+        {
+            name: "ALT 92.1",
+            logo: "stations/images-america/reno/ALT 92.1.png",
+            url: "https://ice24.securenetsystems.net/ALT921"
+        },
+        {
+            name: "Relevant Radio 93.3",
             logo: "stations/images-america/roswell/Relevant Radio.png",
             url: "http://relevantradio-ice.streamguys.us/relevantradio-web"
+        },
+        {
+            name: "95.5 The Vibe",
+            logo: "stations/images-america/reno/95.5 The Vibe.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC.aac"
+        },
+        {
+            name: "101.5 Truckee Tahoe Radio",
+            logo: "stations/images-america/carson_city/101.5 Truckee Tahoe Radio.png",
+            url: "https://ice9.securenetsystems.net/KTKE"
+        },
+        {
+            name: "Wild 102.9",
+            logo: "stations/images-america/reno/Wild 102.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFM.mp3"
+        },
+        {
+            name: "KVMR 105.1",
+            logo: "stations/images-america/truckee/KVMR 105.1.png",
+            url: "http://live.kvmr.org:8000/aac96"
+        },
+        {
+            name: "KTHO Radio 590 AM",
+            logo: "stations/images-america/carson_city/KTHO Radio 590 AM.jpg",
+            url: "http://s7.viastreaming.net:7540/;"
+        },
+        {
+            name: "Talk 650",
+            logo: "stations/images-america/sacramento/Talk 650.png",
+            url: "https://c2.prod.playlists.ihrhls.com/229_icy"
+        },
+        {
+            name: "KOH 780 AM",
+            logo: "stations/images-america/reno/KOH 780 AM.png",
+            url: "http://16693.live.streamtheworld.com/KKOHAM.mp3"
+        },
+        {
+            name: "KNNR 1400",
+            logo: "stations/images-america/ely/KELY.png",
+            url: "http://173.193.205.96:7200/stream"
         },
     ],
     "tucson": [
