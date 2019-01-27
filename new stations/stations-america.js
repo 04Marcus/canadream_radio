@@ -503,7 +503,7 @@ var stations = {
             url: "http://ice3.securenetsystems.net:80/KPZE"
         },
     ],	
-	"carson_city": [
+	    "carson_city": [
         {
             name: "KUNR 88.7",
             logo: "stations/images-america/reno/KUNR 88.7.png",
@@ -541,7 +541,7 @@ var stations = {
         },
         {
             name: "101.5 Truckee Tahoe Radio",
-            logo: "stations/images-america/carson_city/K101.5 Truckee Tahoe Radio.png",
+            logo: "stations/images-america/carson_city/101.5 Truckee Tahoe Radio.png",
             url: "https://ice9.securenetsystems.net/KTKE"
         },
         {
@@ -558,11 +558,6 @@ var stations = {
             name: "95.1 The Wolf 105.1-HD2",
             logo: "stations/images-america/reno/95.1 The Wolf.jpg",
             url: "https://ice42.securenetsystems.net/KWFP"
-        },
-        {
-            name: "95.1 The Wolf 105.1-HD2",
-            logo: "stations/images-america/reno/95.1 The Wolf.jpg",
-            url: "http://s7.viastreaming.net:7540/;"
         },
         {
             name: "KTHO Radio 590 AM",
@@ -2664,6 +2659,11 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
         {
+            name: "ALT 92.1",
+            logo: "stations/images-america/reno/ALT 92.1.png",
+            url: "https://ice24.securenetsystems.net/ALT921"
+        },
+        {
             name: "K-BOOK 93.3 FM",
             logo: "stations/images-america/reno/K-BOOK.jpg",
             url: "http://198.245.60.88:8024/;stream.mp3"
@@ -2672,6 +2672,11 @@ var stations = {
             name: "Reno's Crazy 80's 93.7 FM",
             logo: "stations/images-america/reno/Reno's Crazy 80's 93.7 FM.png",
             url: "http://173.193.205.96:7302/stream"
+        },
+        {
+            name: "95.1 The Wolf",
+            logo: "stations/images-america/reno/95.1 The Wolf.jpg",
+            url: "https://ice42.securenetsystems.net/KWFP"
         },
         {
             name: "95.5 The Vibe",
