@@ -980,6 +980,25 @@
 	
 	
 	
+    "oakland": [
+        {
+            name: "KPOO-FM 89.5",
+            logo: "stations/images-america/oakland/KPOO-FM 89.5.png",
+            url: "http://amber.streamguys.com:5220/xstream"
+        },
+        {
+            name: "90.5 The Edge",
+            logo: "stations/images-america/oakland/90.5 The Edge.gif",
+            url: "http://kvhs.smrn.com:5561/live"
+        },
+        {
+            name: "KGPC 96.9",
+            logo: "stations/images-america/oakland/KGPC.png",
+            url: "http://icy2.abacast.com/9thfloor-9thflooraac-64"
+        },
+    ],
+	
+	
 	"oxnard": [
         {
             name: "KCLU 88.3 FM",
@@ -1665,6 +1684,120 @@
         },
     ],
 	
+	
+	
+    "san_francisco": [
+        {
+            name: "Real Talk 910",
+            logo: "stations/images-america/san_francisco/Real Talk 910.png",
+            url: "https://c10.prod.playlists.ihrhls.com/297_icy"
+        },
+        {
+            name: "KQED 88.5 FM",
+            logo: "stations/images-america/san_francisco/KQED Public Radio.png",
+            url: "http://50.31.186.115:80/kqedradio"
+        },
+        {
+            name: "KPOO-FM 89.5",
+            logo: "stations/images-america/san_francisco/KPOO 89.5.png",
+            url: "http://amber.streamguys.com:5220/xstream"
+        },
+        {
+            name: "KDFC 90.3 FM",
+            logo: "stations/images-america/san_francisco/KDFC.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFM.mp3"
+        },
+        {
+            name: "KALX 90.7 FM",
+            logo: "stations/images-america/san_francisco/KALX.png",
+            url: "http://icecast.media.berkeley.edu:8000/kalx-128.mp3"
+        },
+        {
+            name: "KALW 91.7 FM",
+            logo: "stations/images-america/san_francisco/KALW.png",
+            url: "http://live.str3am.com:2430/"
+        },
+        {
+            name: "94.1 KPFA",
+            logo: "stations/images-america/san_francisco/KPFA.svg",
+            url: "http://stations.pacifica.org:8000/kpfa_64"
+        },
+        {
+            name: "Wild 94.9",
+            logo: "stations/images-america/san_francisco/Wild 94.9.png",
+            url: "http://c4icyelb.prod.playlists.ihrhls.com/305_icy"
+        },
+        {
+            name: "Evolution 94.9-HD2",
+            logo: "stations/images-america/0_general_logos/Evolution.png",
+            url: "https://c3.prod.playlists.ihrhls.com/5953_icy"
+        },
+        {
+            name: "ALT 94.9-HD3",
+            logo: "stations/images-america/san_francisco/ALT 94.9-HD3.png",
+            url: "https://c9.prod.playlists.ihrhls.com/4447_icy"
+        },
+        {
+            name: "98.1 The Breeze",
+            logo: "stations/images-america/san_francisco/98.1 The Breeze.png",
+            url: "https://c4.prod.playlists.ihrhls.com/285_icy"
+        },
+        {
+            name: "Star 101.3",
+            logo: "stations/images-america/san_francisco/Star 101.3.png",
+            url: "http://c10icyelb.prod.playlists.ihrhls.com/281_icy"
+        },
+        {
+            name: "Pride Radio 101.3-HD2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
+        },
+        {
+            name: "102.9 KBLX",
+            logo: "stations/images-america/san_francisco/102.9 KBLX.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBLXFMAAC.aac"
+        },
+        {
+            name: "iHeart80s @ 103.7",
+            logo: "stations/images-america/san_francisco/iHeart80s_103.7.png",
+            url: "https://c10.prod.playlists.ihrhls.com/4342_icy"
+        },
+        {
+            name: "Bloomberg 103.7-HD2",
+            logo: "stations/images-america/san_francisco/Bloomberg 103.7-HD2.png",
+            url: "https://c10.prod.playlists.ihrhls.com/301_icy"
+        },
+        {
+            name: "104.5 KFOG",
+            logo: "stations/images-america/san_francisco/104.5 KFOG.png",
+            url: "http://14003.live.streamtheworld.com:80/KFOGFMAAC_SC"
+        },
+        {
+            name: "106 KMEL",
+            logo: "stations/images-america/san_francisco/106 KMEL.png",
+            url: "https://c10.prod.playlists.ihrhls.com/293_icy"
+        },
+        {
+            name: "American Top 40 106.1-HD2",
+            logo: "stations/images-america/san_francisco/American Top 40 - KMEL-HD2.png",
+            url: "http://c2icyelb.prod.playlists.ihrhls.com/4802_icy"
+        },
+        {
+            name: "107.7 The Bone",
+            logo: "stations/images-america/san_francisco/107.7 The Bone.png",
+            url: "https://18233.live.streamtheworld.com/KSANFMAAC_SC"
+        },
+        {
+            name: "KNBR 107.7-HD2",
+            logo: "stations/images-america/san_francisco/KNBR 107.7-HD2.png",
+            url: "https://14023.live.streamtheworld.com/KNBRAMAAC_SC"
+        },
+        {
+            name: "1220 KDOW",
+            logo: "stations/images-america/san_francisco/1220 KDOW.png",
+            url: "http://18683.live.streamtheworld.com/KDOWAMAAC.aac"
+        },
+    ],
 	
 	
 	
