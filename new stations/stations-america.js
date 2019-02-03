@@ -331,7 +331,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -474,7 +474,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/carlsbad_nm/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web?tsid=undefined"
         },
         {
@@ -845,7 +845,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -1546,7 +1546,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -1861,7 +1861,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -2505,7 +2505,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -2919,7 +2919,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -3192,7 +3192,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/san_diego/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa010_mp3_high_web"
         },
         {
@@ -3237,11 +3237,11 @@ var stations = {
         },
         {
             name: "XTRA 1360 Fox Sports San Diego",
-            logo: "stations/images-america/san_diego/Radio Latina.png",
+            logo: "stations/images-america/san_diego/XTRA 1360 Fox Sports San Diego.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFM.mp3"
         },
     ],
-    "san_francisco": [
+	"san_francisco": [
         {
             name: "Real Talk 910",
             logo: "stations/images-america/san_francisco/Real Talk 910.png",
@@ -3283,6 +3283,16 @@ var stations = {
             url: "http://c4icyelb.prod.playlists.ihrhls.com/305_icy"
         },
         {
+            name: "Evolution 94.9-HD2",
+            logo: "stations/images-america/0_general_logos/Evolution.png",
+            url: "https://c3.prod.playlists.ihrhls.com/5953_icy"
+        },
+        {
+            name: "ALT 94.9-HD3",
+            logo: "stations/images-america/san_francisco/ALT 94.9-HD3.png",
+            url: "https://c9.prod.playlists.ihrhls.com/4447_icy"
+        },
+        {
             name: "98.1 The Breeze",
             logo: "stations/images-america/san_francisco/98.1 The Breeze.png",
             url: "https://c4.prod.playlists.ihrhls.com/285_icy"
@@ -3291,6 +3301,11 @@ var stations = {
             name: "Star 101.3",
             logo: "stations/images-america/san_francisco/Star 101.3.png",
             url: "http://c10icyelb.prod.playlists.ihrhls.com/281_icy"
+        },
+        {
+            name: "Pride Radio 101.3-HD2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
         },
         {
             name: "102.9 KBLX",
@@ -3303,6 +3318,11 @@ var stations = {
             url: "https://c10.prod.playlists.ihrhls.com/4342_icy"
         },
         {
+            name: "Bloomberg 103.7-HD2",
+            logo: "stations/images-america/san_francisco/Bloomberg 103.7-HD2.png",
+            url: "https://c10.prod.playlists.ihrhls.com/301_icy"
+        },
+        {
             name: "104.5 KFOG",
             logo: "stations/images-america/san_francisco/104.5 KFOG.png",
             url: "http://14003.live.streamtheworld.com:80/KFOGFMAAC_SC"
@@ -3313,7 +3333,7 @@ var stations = {
             url: "https://c10.prod.playlists.ihrhls.com/293_icy"
         },
         {
-            name: "American Top 40 - KMEL-HD2",
+            name: "American Top 40 106.1-HD2",
             logo: "stations/images-america/san_francisco/American Top 40 - KMEL-HD2.png",
             url: "http://c2icyelb.prod.playlists.ihrhls.com/4802_icy"
         },
@@ -3321,6 +3341,16 @@ var stations = {
             name: "107.7 The Bone",
             logo: "stations/images-america/san_francisco/107.7 The Bone.png",
             url: "https://18233.live.streamtheworld.com/KSANFMAAC_SC"
+        },
+        {
+            name: "KNBR 107.7-HD2",
+            logo: "stations/images-america/san_francisco/KNBR 107.7-HD2.png",
+            url: "https://14023.live.streamtheworld.com/KNBRAMAAC_SC"
+        },
+        {
+            name: "1220 KDOW",
+            logo: "stations/images-america/san_francisco/1220 KDOW.png",
+            url: "http://18683.live.streamtheworld.com/KDOWAMAAC.aac"
         },
     ],
     "san_rafael": [
@@ -15698,7 +15728,7 @@ var stations_c2c = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/san_diego/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa010_mp3_high_web"
         },
         {

@@ -1679,7 +1679,7 @@
         },
         {
             name: "XTRA 1360 Fox Sports San Diego",
-            logo: "stations/images-america/san_diego/Radio Latina.png",
+            logo: "stations/images-america/san_diego/XTRA 1360 Fox Sports San Diego.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFM.mp3"
         },
     ],
