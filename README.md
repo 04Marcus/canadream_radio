@@ -1,4 +1,9 @@
-**CanaDream for ETS2/ATS Local Radio**
+**Marcus' Workspace for ETS2/ATS Local Radio**
+
+29.06.2019:
++ **Washington DLC**: coordinates extracted + folders created
+
+====
 
 18.01.2019:
 + **Base Map**: new stations added, removed non existent stations + frequency changes in a few cities
