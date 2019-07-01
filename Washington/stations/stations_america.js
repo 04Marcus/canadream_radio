@@ -210,7 +210,7 @@ var stations = {
         {
             name: "Family Radio 89.5 FM",
             logo: "stations/images-america/longview/Family Radio 89.5 FM.svg",
-            url: "http://18543.live.streamtheworld.com/FAMILYRADIO_WESTAAC.aac"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WESTAAC.aac"
         },
         {
             name: "K-LOVE 90.3 FM",
@@ -289,7 +289,7 @@ var stations = {
         {
             name: "NWPR NPR News - 90.1 FM",
             logo: "stations/images-america/omak/NWPR NPR News - 90.1 FM.png",
-            url: "http://tektite.streamguys1.com:5010/KPBX-aac"
+            url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
     ],
 	"port_angeles": [
@@ -356,6 +356,11 @@ var stations = {
             url: "https://c1icy.prod.playlists.ihrhls.com/2577_icy"
         },
         {
+            name: "Pride Radio 93.3-2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
+        },
+        {
             name: "KUOW 94.9",
             logo: "stations/images-america/seattle/KUOW 94.9.png",
             url: "http://kuow.streamguys1.com/kuow1-hi.mp3"
@@ -366,6 +371,16 @@ var stations = {
             url: "https://c1icy.prod.playlists.ihrhls.com/2569_icy"
         },
         {
+            name: "Sportsradio KJR 95.7-2",
+            logo: "stations/images-america/seattle/Sportsradio KJR 95.7-2.png",
+            url: "https://c1.prod.playlists.ihrhls.com/2565_icy"
+        },
+        {
+            name: "The Breeze 95.7-3",
+            logo: "stations/images-america/seattle/The Breeze 95.7-3.png",
+            url: "https://c10.prod.playlists.ihrhls.com/8143_icy"
+        },
+        {
             name: "96.5 Jack FM",
             logo: "stations/images-america/seattle/96.5 Jack FM.png",
             url: "https://c14icy.prod.playlists.ihrhls.com/7788_icy"
@@ -374,6 +389,11 @@ var stations = {
             name: "ALT 96.5-2",
             logo: "stations/images-america/seattle/ALT 96.5-2.png",
             url: "https://c1icy.prod.playlists.ihrhls.com/6246_icy"
+        },
+        {
+            name: "KIRO Radio 97.3 FM",
+            logo: "stations/images-america/seattle/KIRO Radio 97.3 FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KIROFM_SC"
         },
         {
             name: "KOMO News 97.7 FM",
@@ -396,6 +416,11 @@ var stations = {
             url: "http://65.19.131.152/sinclair-kplzfmaac-ibc2"
         },
         {
+            name: "KXSU 102.1 FM",
+            logo: "stations/images-america/seattle/KXSU 102.1 FM.png",
+            url: "http://lin1.san.fast-serv.com:6014/"
+        },
+        {
             name: "102.5 KZOK",
             logo: "stations/images-america/seattle/102.5 KZOK.png",
             url: "https://c14.prod.playlists.ihrhls.com/7787_icy"
@@ -416,6 +441,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/sinclair-kviamaac-ibc2"
         },
         {
+            name: "710 ESPN Seattle",
+            logo: "stations/images-america/seattle/710 ESPN Seattle.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KIROAM_SC"
+        },
+        {
             name: "AM 770 KTTH",
             logo: "stations/images-america/seattle/AM 770 KTTH.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTTHAM.mp3"
@@ -429,5 +459,265 @@ var stations = {
             name: "KXA 1520",
             logo: "stations/images-america/seattle/KXA 1520.png",
             url: "http://www.ophanim.net:9410/stream"
+        },
+    ],
+    "spokane": [
+        {
+            name: "KEWU 89.5 FM",
+            logo: "stations/images-america/spokane/KEWU 89.5 FM.png",
+            url: "http://kewuradio.ewu.edu/KEWU_Jazz_89.5"
+        },
+        {
+            name: "KPBZ 90.3 - PRX Remix",
+            logo: "stations/images-america/spokane/KPBZ 90.3 - PRX Remix.png",
+            url: "https://tektite.streamguys1.com:5012/KPBZ-mp3"
+        },
+        {
+            name: "KPBX 91.1 - Spokane Public Radio",
+            logo: "stations/images-america/spokane/KPBX 91.1 - Spokane Public Radio.png",
+            url: "https://tektite.streamguys1.com:5012/KPBX-mp3"
+        },
+        {
+            name: "KSFC 91.1 - Spokane Public Radio",
+            logo: "stations/images-america/spokane/KSFC 91.1 - Spokane Public Radio.png",
+            url: "https://tektite.streamguys1.com:5012/KSFC-mp3"
+        },
+        {
+            name: "92.9 ZZU",
+            logo: "stations/images-america/spokane/92.9 ZZU.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZZUFMAAC.aac"
+        },
+        {
+            name: "93.7 The Mountain",
+            logo: "stations/images-america/spokane/93.7 The Mountain.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDRKFMAAC.aac"
+        },
+        {
+            name: "KPND 95.3 FM",
+            logo: "stations/images-america/spokane/KPND 95.3 FM.png",
+            url: "https://live.wostreaming.net/direct/blueskybroadcasting-kpndfmaac-ibc1"
+        },
+        {
+            name: "ALT 96.1",
+            logo: "stations/images-america/spokane/ALT 96.1.png",
+            url: "https://c7.prod.playlists.ihrhls.com/2593_icy"
+        },
+        {
+            name: "Hot 96.9",
+            logo: "stations/images-america/spokane/Hot 96.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KEZEFMAAC.aac"
+        },
+        {
+            name: "KISS 98.1",
+            logo: "stations/images-america/spokane/KISS 98.1.png",
+            url: "https://c2.prod.playlists.ihrhls.com/2585_icy"
+        },
+        {
+            name: "98.9 KKZX",
+            logo: "stations/images-america/spokane/98.9 KKZX.png",
+            url: "https://c2.prod.playlists.ihrhls.com/2581_icy"
+        },
+        {
+            name: "KIX 99.3",
+            logo: "stations/images-america/spokane/KIX 99.3.png",
+            url: "https://c7.prod.playlists.ihrhls.com/5278_icy"
+        },
+        {
+            name: "The Big 99.9 Coyote Country",
+            logo: "stations/images-america/spokane/The Big 99.9 Coyote Country.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXLYFMAAC.aac"
+        },
+        {
+            name: "Key 101 FM",
+            logo: "stations/images-america/spokane/Key 101 FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KEYFFMAAC.aac"
+        },
+        {
+            name: "103.1 KCDA",
+            logo: "stations/images-america/spokane/103.1 KCDA.png",
+            url: "https://c2.prod.playlists.ihrhls.com/2589_icy"
+        },
+        {
+            name: "iHeart 80s 103.1-2",
+            logo: "stations/images-america/spokane/iHeart 80s 103.1-2.png",
+            url: "https://c3.prod.playlists.ihrhls.com/5060_icy"
+        },
+        {
+            name: "103.9 BOB FM",
+            logo: "stations/images-america/spokane/103.9 BOB FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBBDFMAAC.aac"
+        },
+        {
+            name: "105.7 Now FM",
+            logo: "stations/images-america/spokane/105.7 Now FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZBDFMAAC.aac"
+        },
+        {
+            name: "590 KQNT",
+            logo: "stations/images-america/spokane/590 KQNT.png",
+            url: "https://c7.prod.playlists.ihrhls.com/4952_icy"
+        },
+        {
+            name: "700 ESPN",
+            logo: "stations/images-america/spokane/700 ESPN.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXLXAMAAC.aac"
+        },
+        {
+            name: "News Radio 920",
+            logo: "stations/images-america/spokane/News Radio 920.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXLYAMAAC.aac"
+        },
+    ],
+    "tacoma": [
+        {
+            name: "KUPS 90.1 FM",
+            logo: "stations/images-america/tacoma/KUPS 90.1 FM.png",
+            url: "http://lxap05.pugetsound.edu:8000/KUPS-Stream"
+        },
+        {
+            name: "NWPR NPR & Classical Music - 90.9 FM",
+            logo: "stations/images-america/tacoma/NWPR NPR & Classical Music - 90.9 FM.png",
+            url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
+        },
+        {
+            name: "BBN 1",
+            logo: "stations/images-america/tacoma/BBN 1.png",
+            url: "http://stream2.bbnradio.org:8000/english"
+        },
+        {
+            name: "KTQA 95.3 FM",
+            logo: "stations/images-america/tacoma/KTQA 95.3 FM.png",
+            url: "https://stream.ktqa.org/ktqa.opus"
+        },
+        {
+            name: "101.9 Radio Tacoma",
+            logo: "stations/images-america/tacoma/101.9 Radio Tacoma.png",
+            url: "http://stream.radiotacoma.org:8000/ktah.mp3"
+        },
+    ],
+    "vancouver": [
+        {
+            name: "KXRW 99.9 FM",
+            logo: "stations/images-america/vancouver/KXRW 99.9 FM.png",
+            url: "http://listen.xray.fm:8000/stream"
+        },
+    ],
+    "wenatchee": [
+        {
+            name: "NWPR NPR & Classical Music - 90.7 FM",
+            logo: "stations/images-america/wenatchee/NWPR NPR & Classical Music - 90.7 FM.png",
+            url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
+        },
+        {
+            name: "Z-Country 94.7",
+            logo: "stations/images-america/wenatchee/Z-Country 94.7.png",
+            url: "https://live.wostreaming.net/direct/icicle-kzalfmaac-ibc4"
+        },
+        {
+            name: "La Gran D 95.9",
+            logo: "stations/images-america/wenatchee/La Gran D 95.9.png",
+            url: "http://sv1.bustosradio.com:8042/lagrande-wn.mp3"
+        },
+        {
+            name: "Kissin' 97.7",
+            logo: "stations/images-america/wenatchee/Kissin 97.7.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kysnfmaac-imc4"
+        },
+        {
+            name: "99.5 The Bridge",
+            logo: "stations/images-america/wenatchee/99.5 The Bridge.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kqbgfmaac-imc4"
+        },
+        {
+            name: "KOHO 101.1 FM",
+            logo: "stations/images-america/wenatchee/KOHO 101.1 FM.png",
+            url: "https://live.wostreaming.net/manifest/icicle-kohofmaac-ibc4"
+        },
+        {
+            name: "The Quake 102.1",
+            logo: "stations/images-america/wenatchee/The Quake 102.1.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kpqfmaac-imc4"
+        },
+        {
+            name: "KW3 103.9",
+            logo: "stations/images-america/wenatchee/KW3 103.9.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kwwwfmaac-imc4"
+        },
+        {
+            name: "KORE-LP FM 105.9",
+            logo: "stations/images-america/wenatchee/KORE-LP FM 105.9.png",
+            url: "https://streams.radio.co/s46e7c30d5/listen"
+        },
+        {
+            name: "Fox Sports 1340",
+            logo: "stations/images-america/wenatchee/KW3 103.9.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kyspamaac-ibc4"
+        },
+    ],
+    "yakima": [
+        {
+            name: "NWPR NPR News - 88.5 FM",
+            logo: "stations/images-america/yakima/NWPR NPR News - 88.5 FM.png",
+            url: "http://streams.nwpr.org:8000/NWPRNEWS"
+        },
+        {
+            name: "NWPR NPR & Classical Music - 90.3 FM",
+            logo: "stations/images-america/yakima/NWPR NPR & Classical Music - 90.3 FM.png",
+            url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
+        },
+        {
+            name: "92.9 The Bull",
+            logo: "stations/images-america/yakima/92.9 The Bull.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kdblfmaac-ibc3"
+        },
+        {
+            name: "94.5 KATS",
+            logo: "stations/images-america/yakima/94.5 KATS.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-katsfmaac-ibc3"
+        },
+        {
+            name: "94.5 KATS",
+            logo: "stations/images-america/yakima/94.5 KATS.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-katsfmaac-ibc3"
+        },
+        {
+            name: "Hot 99.7",
+            logo: "stations/images-america/yakima/Hot 99.7.png",
+            url: "https://ice5.securenetsystems.net/KHHK"
+        },
+        {
+            name: "100.9 Cherry FM",
+            logo: "stations/images-america/yakima/100.9 Cherry FM.png",
+            url: "https://ice5.securenetsystems.net/KARY"
+        },
+        {
+            name: "104.1 KXDD",
+            logo: "stations/images-america/yakima/104.1 KXDD.png",
+            url: "https://ice7.securenetsystems.net/KXDD"
+        },
+        {
+            name: "105.7 The Hawk",
+            logo: "stations/images-america/yakima/105.7 The Hawk.png",
+            url: "https://ice6.securenetsystems.net/KRSE"
+        },
+        {
+            name: "Big 106.1",
+            logo: "stations/images-america/yakima/Big 106.1.png",
+            url: "https://ice9.securenetsystems.net/KHHKHD2"
+        },
+        {
+            name: "106.9 The X Rocks",
+            logo: "stations/images-america/yakima/106.9 The X Rocks.png",
+            url: "http://ice10.securenetsystems.net/KHHKHD3"
+        },
+        {
+            name: "107.3 KFFM",
+            logo: "stations/images-america/yakima/107.3 KFFM.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kffmfmaac-ibc3"
+        },
+        {
+            name: "News Talk KIT 1280",
+            logo: "stations/images-america/yakima/News Talk KIT 1280.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kitamaac-ibc3"
         },
     ],

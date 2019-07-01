@@ -130,3 +130,101 @@
     }
   ]
 }
+
+var country_properties = {
+    "aberdeen_wa": {
+        name: "Aberdeen",
+        name_english: "Aberdeen",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "bellingham": {
+        name: "Bellingham",
+        name_english: "Bellingham",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "colville": {
+        name: "Colville",
+        name_english: "Colville",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "everett": {
+        name: "Everett",
+        name_english: "Everett",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "grand_coulee": {
+        name: "Grand Coulee",
+        name_english: "Grand Coulee",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "kennewick": {
+        name: "Kennewick",
+        name_english: "Kennewick",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "longview": {
+        name: "Longview",
+        name_english: "Longview",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "olympia": {
+        name: "Olympia",
+        name_english: "Olympia",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "omak": {
+        name: "Omak",
+        name_english: "Omak",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "port_angeles": {
+        name: "Port Angeles",
+        name_english: "Port Angeles",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "seattle": {
+        name: "Seattle",
+        name_english: "Seattle",
+        code: "us-wa",
+        relative_radius: 1.4
+    },
+    "spokane": {
+        name: "Spokane",
+        name_english: "Spokane",
+        code: "us-wa",
+        relative_radius: 1.3
+    },
+    "tacoma": {
+        name: "Tacoma",
+        name_english: "Tacoma",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "vancouver": {
+        name: "Vancouver",
+        name_english: "Vancouver",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "wenatchee": {
+        name: "Wenatchee",
+        name_english: "Wenatchee",
+        code: "us-wa",
+        relative_radius: 1.2
+    },
+    "yakima": {
+        name: "Yakima",
+        name_english: "Yakima",
+        code: "us-wa",
+        relative_radius: 1.2
+    },

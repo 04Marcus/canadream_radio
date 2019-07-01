@@ -1,5 +1,8 @@
 **Marcus' Workspace for ETS2/ATS Local Radio**
 
+01.07.2019:
++ **Washington DLC**: finished adding stations for all cities
+
 30.06.2019:
 + **Washington DLC**: stations + logos added for Aberdeen to Seattle (Seattle and Olympia merged with C2C)
 
