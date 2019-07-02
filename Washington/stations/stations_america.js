@@ -100,7 +100,7 @@ var stations = {
 	"grand_coulee": [
         {
             name: "KYRS 88.1 FM",
-            logo: "stations/images-america/colville/KYRS 88.1 FM.png",
+            logo: "stations/images-america/grand_coulee/KYRS 88.1 FM.png",
             url: "http://www.ophanim.net:7170/;"
         },
         {
@@ -119,11 +119,6 @@ var stations = {
             name: "NWPR NPR & Classical Music - 89.1 FM",
             logo: "stations/images-america/kennewick/NWPR NPR & Classical Music - 89.1 FM.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
-        },
-        {
-            name: "KBLD 91.7",
-            logo: "stations/images-america/kennewick/KBLD 91.7.png",
-            url: "https://ice7.securenetsystems.net/KBLD"
         },
         {
             name: "KBLD 91.7",
@@ -245,11 +240,6 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/ppm-knkxfmaac-ibc1"
         },
         {
-            name: "KNKX 90.1",
-            logo: "stations/images-america/olympia/KNKX.png",
-            url: "https://live.wostreaming.net/manifest/ppm-knkxfmaac-ibc1"
-        },
-        {
             name: "SuperCFL 92.9 FM",
             logo: "stations/images-america/olympia/SuperCFL 92.9 FM.png",
             url: "http://supercfl.ddns.net:1003/CFL.aac"
@@ -261,7 +251,7 @@ var stations = {
         },
         {
             name: "95.3 KGY",
-            logo: "stations/images-america/olympia/KGY 95.3.png",
+            logo: "stations/images-america/olympia/95.3 KGY.png",
             url: "http://stream1.noctel.com:7040/stream.aac"
         },
         {
@@ -447,12 +437,12 @@ var stations = {
         },
         {
             name: "AM 770 KTTH",
-            logo: "stations/images-america/seattle/AM 770 KTTH.jpg",
+            logo: "stations/images-america/seattle/AM 770 KTTH.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTTHAM.mp3"
         },
         {
             name: "KITI 1420",
-            logo: "stations/images-america/seattle/KITI 1420.jpg",
+            logo: "stations/images-america/seattle/KITI 1420.png",
             url: "http://icy3.abacast.com/premierbroadcasters-kitiamaac-32"
         },
         {
@@ -478,8 +468,8 @@ var stations = {
             url: "https://tektite.streamguys1.com:5012/KPBX-mp3"
         },
         {
-            name: "KSFC 91.1 - Spokane Public Radio",
-            logo: "stations/images-america/spokane/KSFC 91.1 - Spokane Public Radio.png",
+            name: "KSFC 91.9 - Spokane Public Radio",
+            logo: "stations/images-america/spokane/KSFC 91.9 - Spokane Public Radio.png",
             url: "https://tektite.streamguys1.com:5012/KSFC-mp3"
         },
         {
@@ -650,7 +640,7 @@ var stations = {
         },
         {
             name: "Fox Sports 1340",
-            logo: "stations/images-america/wenatchee/KW3 103.9.png",
+            logo: "stations/images-america/wenatchee/Fox Sports 1340.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kyspamaac-ibc4"
         },
     ],
@@ -669,11 +659,6 @@ var stations = {
             name: "92.9 The Bull",
             logo: "stations/images-america/yakima/92.9 The Bull.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kdblfmaac-ibc3"
-        },
-        {
-            name: "94.5 KATS",
-            logo: "stations/images-america/yakima/94.5 KATS.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-katsfmaac-ibc3"
         },
         {
             name: "94.5 KATS",
