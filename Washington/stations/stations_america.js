@@ -346,8 +346,8 @@ var stations = {
             url: "http://streams.nwpr.org:8000/NWPRCLASSICAL"
         },
         {
-            name: "91.3 KCBS",
-            logo: "stations/images-america/seattle/91.3 KCBS.png",
+            name: "91.3 KBCS",
+            logo: "stations/images-america/seattle/91.3 KBCS.png",
             url: "http://www.ophanim.net:7720/stream"
         },
         {
