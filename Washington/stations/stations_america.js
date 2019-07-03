@@ -27,7 +27,7 @@ var stations = {
         },
         {
             name: "Sunny 102.1",
-            logo: "stations/images-america/aberdeen_wa/KOMO News 97.7 FM.png",
+            logo: "stations/images-america/aberdeen_wa/Sunny 102.1.png",
             url: "http://173.193.205.96:7294/stream"
         },
         {
@@ -258,7 +258,7 @@ var stations = {
             name: "KOWA-LP 106.5 FM",
             logo: "stations/images-america/olympia/KOWA-LP 106.5 FM.png",
             url: "http://kowa.out.airtime.pro:8000/kowa_b"
-        }
+        },
         {
             name: "KUOW 107.3 FM",
             logo: "stations/images-america/olympia/KUOW 107.3 FM.png",
