@@ -431,11 +431,6 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/sinclair-kviamaac-ibc2"
         },
         {
-            name: "710 ESPN Seattle",
-            logo: "stations/images-america/seattle/710 ESPN Seattle.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KIROAM_SC"
-        },
-        {
             name: "AM 770 KTTH",
             logo: "stations/images-america/seattle/AM 770 KTTH.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTTHAM.mp3"
