@@ -353,7 +353,7 @@ var stations = {
         {
             name: "KUOW 94.9",
             logo: "stations/images-america/seattle/KUOW 94.9.png",
-            url: "http://kuow.streamguys1.com/kuow1-hi.mp3"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUOWFM_HIGH_MP3.mp3"
         },
         {
             name: "95.7 The Jet",
