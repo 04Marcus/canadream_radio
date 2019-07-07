@@ -418,7 +418,7 @@ var stations = {
         },
         {
             name: "The Key 97.7",
-            logo: "stations/images-america/omak/The Key 97.7png",
+            logo: "stations/images-america/omak/The Key 97.7.png",
             url: "http://63.135.59.61:8003/;"
         },
     ],
@@ -785,7 +785,7 @@ var stations = {
         },
         {
             name: "NWPR NPR News - 90.3 FM",
-            logo: "stations/images-america/wenatchee/NWPR NPR News - 88.5 FM.png",
+            logo: "stations/images-america/wenatchee/NWPR NPR News - 90.3 FM.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
