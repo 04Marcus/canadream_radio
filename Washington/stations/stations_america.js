@@ -7,7 +7,7 @@ var stations = {
         },
         {
             name: "CSN 88.7 FM",
-            logo: "stations/images-america/winnemucca/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -79,7 +79,7 @@ var stations = {
         },
         {
             name: "CSN 89.9 FM",
-            logo: "stations/images-america/winnemucca/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -319,7 +319,7 @@ var stations = {
         },
         {
             name: "CSN 91.1 FM",
-            logo: "stations/images-america/winnemucca/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -351,7 +351,7 @@ var stations = {
         },
         {
             name: "CSN 89.7 FM",
-            logo: "stations/images-america/winnemucca/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -425,7 +425,7 @@ var stations = {
 	"port_angeles": [
         {
             name: "CSN 88.3 FM",
-            logo: "stations/images-america/winnemucca/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
