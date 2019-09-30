@@ -277,7 +277,7 @@
         },
         {
             name: "Montana Radio Cafe 101.9",
-            logo: "stations/images-america/c2c/Montana Radio Cafe 101.9.png",
+            logo: "stations/images-america/c2c/Montana Radio Cafe 101.9.jpg",
             url: "http://138.68.48.163:8000/kxzi"
         },
         {
