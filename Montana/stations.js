@@ -288,11 +288,6 @@
             url: "https://live.wostreaming.net/manifest/cherrycreek-kmonfmaac-ibc4"
         },
         {
-            name: "107.5 The Peak - 94.5-HD2",
-            logo: "stations/images-america/c2c/107.5 The Peak.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kmonhd2aac-ibc4"
-        },
-        {
             name: "The River 97.9",
             logo: "stations/images-america/c2c/The River 97.9.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kvvrfmaac-ibc4"
@@ -321,6 +316,11 @@
             name: "Q106",
             logo: "stations/images-america/c2c/Q106.png",
             url: "https://ice24.securenetsystems.net/KQDIFM"
+        },
+        {
+            name: "107.5 The Peak",
+            logo: "stations/images-america/c2c/107.5 The Peak.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kmonhd2aac-ibc4"
         },
         {
             name: "K'MON Country Radio 560 AM",
