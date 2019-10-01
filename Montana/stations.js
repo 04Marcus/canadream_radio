@@ -21,8 +21,8 @@
             url: "http://stream.abacast.net/direct/townsquare-kbulamaac-ibc3"
         },
         {
-            name: "96.3 The Zone",
-            logo: "stations/images-america/c2c/96.3 The Zone.png",
+            name: "The Zone 96.3",
+            logo: "stations/images-america/c2c/The Zone 96.3.png",
             url: "https://desertmountainbroadcasting.streamguys1.com/KRZN"
         },
         {
@@ -56,8 +56,8 @@
             url: "http://stream.abacast.net/direct/townsquare-kmhkfmaac-ibc3"
         },
         {
-            name: "Wild 104",
-            logo: "stations/images-america/c2c/Wild 104.png",
+            name: "WiLD 104",
+            logo: "stations/images-america/c2c/WiLD 104.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             name: "WiLD 104",
-            logo: "stations/images-america/c2c/Wild 104.png",
+            logo: "stations/images-america/c2c/WiLD 104.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
@@ -202,8 +202,8 @@
             url: "http://ice6.securenetsystems.net/KYUS"
         },
         {
-            name: "KATL 770",
-            logo: "stations/images-america/c2c/KATL 770.png",
+            name: "770 KATL",
+            logo: "stations/images-america/c2c/770 KATL.png",
             url: "https://live.wostreaming.net/manifest/katl-katlammp3-ibc1"
         },
     ],
@@ -410,7 +410,7 @@
         },
         {
             name: "WiLD 104",
-            logo: "stations/images-america/c2c/Wild 104.png",
+            logo: "stations/images-america/c2c/WiLD 104.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
@@ -470,8 +470,8 @@
             url: "http://ice6.securenetsystems.net/KYUS"
         },
         {
-            name: "KATL 770",
-            logo: "stations/images-america/c2c/KATL 770.png",
+            name: "770 KATL",
+            logo: "stations/images-america/c2c/770 KATL.png",
             url: "https://live.wostreaming.net/manifest/katl-katlammp3-ibc1"
         },
     ],
@@ -538,7 +538,7 @@
         },
         {
             name: "WiLD 104",
-            logo: "stations/images-america/c2c/Wild 104.png",
+            logo: "stations/images-america/c2c/WiLD 104.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
@@ -574,8 +574,8 @@
             url: "http://ice23.securenetsystems.net/YNOP"
         },
         {
-            name: "96.3 The Zone",
-            logo: "stations/images-america/c2c/96.3 The Zone.png",
+            name: "The Zone 96.3",
+            logo: "stations/images-america/c2c/The Zone 96.3.png",
             url: "https://desertmountainbroadcasting.streamguys1.com/KRZN"
         },
         {
