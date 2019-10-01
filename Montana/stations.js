@@ -6,6 +6,16 @@
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
+            name: "YPR Classical - 91.7-HD2",
+            logo: "stations/images-america/c2c/91.7 KEMC Yellowstone Public Radio.png",
+            url: "https://ypr.streamguys1.com/live-2"
+        },
+        {
+            name: "YPR Jazz - 91.7-HD3",
+            logo: "stations/images-america/c2c/91.7 KEMC Yellowstone Public Radio.png",
+            url: "https://ypr.streamguys1.com/live-3"
+        },
+        {
             name: "MoJo 92.5",
             logo: "stations/images-america/c2c/KBXIFM.jpg",
             url: "http://69.146.59.250:8001/"
@@ -121,6 +131,16 @@
             name: "Yellowstone Public Radio - 102.1 FM",
             logo: "stations/images-america/c2c/102.1 KBMC Yellowstone Public Radio.png",
             url: "http://ypr-sc.streamguys.net/live"
+        },
+        {
+            name: "YPR Classical - 102.1-HD2",
+            logo: "stations/images-america/c2c/91.7 KEMC Yellowstone Public Radio.png",
+            url: "https://ypr.streamguys1.com/live-2"
+        },
+        {
+            name: "YPR Jazz - 102.1-HD3",
+            logo: "stations/images-america/c2c/91.7 KEMC Yellowstone Public Radio.png",
+            url: "https://ypr.streamguys1.com/live-3"
         },
         {
             name: "My 103.5",
@@ -268,6 +288,11 @@
             url: "https://live.wostreaming.net/manifest/cherrycreek-kmonfmaac-ibc4"
         },
         {
+            name: "107.5 The Peak - 94.5-HD2",
+            logo: "stations/images-america/c2c/107.5 The Peak.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kmonhd2aac-ibc4"
+        },
+        {
             name: "The River 97.9",
             logo: "stations/images-america/c2c/The River 97.9.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kvvrfmaac-ibc4"
@@ -367,6 +392,11 @@
             url: "http://stream.abacast.net/direct/cherrycreek-kmbrfmaac-ibc4"
         },
         {
+            name: "Rock 96.3",
+            logo: "stations/images-america/c2c/Rock 96.3.png",
+            url: "http://stream.abacast.net/direct/montanaradioco-kimoh4aac-imc4"
+        },
+        {
             name: "99.5 The Bull",
             logo: "stations/images-america/c2c/99.5 The Bull.png",
             url: "http://stream.abacast.net/direct/montanaradioco-kbllfmaac-imc4"
@@ -385,6 +415,11 @@
             name: "My 103.5",
             logo: "stations/images-america/c2c/My 103.5.png",
             url: "http://stream.abacast.net/direct/townsquare-kzmyfmaac-ibc3"
+        },
+        {
+            name: "104.5 Dave FM",
+            logo: "stations/images-america/c2c/104.5 Dave FM.png",
+            url: "http://stream.abacast.net/direct/montanaradioco-kimoh2aac-imc4"
         },
         {
             name: "105.3 KMTX",
