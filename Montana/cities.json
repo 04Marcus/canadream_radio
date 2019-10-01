@@ -23,12 +23,6 @@
         code: "us-mt",
         relative_radius: 1.2
     },
-    "dillon_mt": {
-        name: "dillon_mt",
-        name_english: "dillon_mt",
-        code: "us-mt",
-        relative_radius: 1.2
-    },
     "forsyth": {
         name: "forsyth",
         name_english: "forsyth",
@@ -129,9 +123,6 @@
     "butte": {
         relative_whitenoise: 0.95
     },
-    "dillon_mt": {
-        relative_whitenoise: 0.95
-    },
     "forsyth": {
         relative_whitenoise: 0.95
     },
@@ -200,14 +191,6 @@
       "x": "-64351.9",
       "y": "290",
       "z": "-46049.2"
-    },
-    {
-        "gameName": "dillon_mt",
-        "realName": "Dillon",
-        "country": "montana",
-        "x": "-65834.6",
-        "y": "231.468",
-        "z": "-41960.6"
     },
     {
       "gameName": "forsyth",

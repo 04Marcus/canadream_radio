@@ -122,18 +122,6 @@
             url: "http://ypr-sc.streamguys.net/live"
         },
     ],
-    "dillon_mt": [
-        {
-            name: "KDWG The Dawg 90.9 FM The University of Montana Western",
-            logo: "stations/images-america/c2c/KDWG The Dawg 90.9 FM The University of Montana Western.jpg",
-            url: "http://ice9.securenetsystems.net/KDWG"
-        },
-        {
-            name: "91.7 Montana Public Radio",
-            logo: "stations/images-america/c2c/91.7 Montana Public Radio.png",
-            url: "http://stream.kgpr.org/stream"
-        },
-    ],
     "glasgow": [
         {
             name: "Yellowstone Public Radio - 91.9 FM",
