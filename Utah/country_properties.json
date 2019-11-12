@@ -1,0 +1,60 @@
+    "cedar_city": {
+        name: "Cedar City",
+        name_english: "Cedar City",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
+    "logan": {
+        name: "Logan",
+        name_english: "Logan",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
+    "moab": {
+        name: "Moab",
+        name_english: "Moab",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
+    "ogden": {
+        name: "Ogden",
+        name_english: "Ogden",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
+    "price": {
+        name: "Price",
+        name_english: "Price",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
+    "provo": {
+        name: "Provo",
+        name_english: "Provo",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
+    "salina": {
+        name: "Salina",
+        name_english: "Salina",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
+    "salt_lake": {
+        name: "Salt Lake City",
+        name_english: "Salt Lake City",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
+    "st_george": {
+        name: "St. George",
+        name_english: "St. George",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
+    "vernal": {
+        name: "Vernal",
+        name_english: "Vernal",
+        code: "us-ut",
+        relative_radius: 1.2
+    },

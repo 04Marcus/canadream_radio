@@ -1,0 +1,70 @@
+    "cedar_city": [
+        {
+            name: "",
+            logo: "stations/images-america/cedar_city/",
+            url: ""
+        },
+    ],
+    "logan": [
+        {
+            name: "",
+            logo: "stations/images-america/logan/",
+            url: ""
+        },
+    ],
+    "moab": [
+        {
+            name: "",
+            logo: "stations/images-america/moab/",
+            url: ""
+        },
+    ],
+    "ogden": [
+        {
+            name: "",
+            logo: "stations/images-america/ogden/",
+            url: ""
+        },
+    ],
+    "price": [
+        {
+            name: "",
+            logo: "stations/images-america/price/",
+            url: ""
+        },
+    ],
+    "provo": [
+        {
+            name: "",
+            logo: "stations/images-america/provo/",
+            url: ""
+        },
+    ],
+    "salina": [
+        {
+            name: "",
+            logo: "stations/images-america/salina/",
+            url: ""
+        },
+    ],
+    "salt_lake": [
+        {
+            name: "",
+            logo: "stations/images-america/salt_lake/",
+            url: ""
+        },
+    ],
+    "st_george": [
+        {
+            name: "",
+            logo: "stations/images-america/st_george/",
+            url: ""
+        },
+    ],
+    "vernal": [
+        {
+            name: "",
+            logo: "stations/images-america/vernal/",
+            url: ""
+        },
+    ],

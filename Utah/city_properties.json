@@ -1,0 +1,30 @@
+    "cedar_city": {
+        relative_whitenoise: 0.95
+    },
+    "logan": {
+        relative_whitenoise: 0.95
+    },
+    "moab": {
+        relative_whitenoise: 0.95
+    },
+    "ogden": {
+        relative_whitenoise: 0.95
+    },
+    "price": {
+        relative_whitenoise: 0.95
+    },
+    "provo": {
+        relative_whitenoise: 0.95
+    },
+    "salina": {
+        relative_whitenoise: 0.95
+    },
+    "salt_lake": {
+        relative_whitenoise: 0.95
+    },
+    "st_george": {
+        relative_whitenoise: 0.95
+    },
+    "vernal": {
+        relative_whitenoise: 0.95
+    },
