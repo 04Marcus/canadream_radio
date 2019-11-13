@@ -1,7 +1,7 @@
 **Marcus' Workspace for ETS2/ATS Local Radio**
 
 13.11.2019:
-+**Utah**: added stations from Cedar City to Salt Lake City
++ **Utah**: added stations from Cedar City to Salt Lake City
 
 12.11.2019:
 + **Utah**: cities coordinates, city_properties, country_properties and stations-file created
