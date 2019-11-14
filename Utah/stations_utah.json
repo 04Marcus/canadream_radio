@@ -417,11 +417,6 @@
             url: "http://ice24.securenetsystems.net/KZYN"
         },
         {
-            name: "KJUL 104.7",
-            logo: "stations/images-america/st_george/KJUL 104.7.png",
-            url: "https://ic1.sslstream.com/kjul-fm"
-        },
-        {
             name: "Planet 105.1",
             logo: "stations/images-america/cedar_city/Planet 105.1.png",
             url: "https://ice10.securenetsystems.net/KPLD"
