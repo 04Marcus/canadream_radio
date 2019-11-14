@@ -1,11 +1,12 @@
-    "cedar_city": [
+    
+	"cedar_city": [
         {
             name: "Crossover 88.9 FM",
             logo: "stations/images-america/cedar_city/Crossover 88.9 FM.png",
             url: "https://ic2.sslstream.com/kchg-fm"
         },
         {
-            name: "KUER 90.1",
+            name: "kuer 90.1",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
             url: "http://audio.kuer.org:8000/high"
         },
@@ -52,7 +53,7 @@
     ],
     "logan": [
         {
-            name: "KUER 90.1",
+            name: "kuer 90.1",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
             url: "http://audio.kuer.org:8000/high"
         },
@@ -114,12 +115,7 @@
             url: "http://tektite.streamguys1.com:5450/live"
         },
         {
-            name: "KCYN 97.1",
-            logo: "stations/images-america/moab/KCYN 97.1.png",
-            url: "http://tektite.streamguys1.com:5450/live"
-        },
-        {
-            name: "Redrock 92 - 101.5 FM",
+            name: "Red Rock 92 - 101.5 FM",
             logo: "stations/images-america/moab/Redrock 92.png",
             url: "http://162.244.80.106:9068/stream"
         },
@@ -131,7 +127,7 @@
     ],
     "ogden": [
         {
-            name: "KUER 90.1",
+            name: "kuer 90.1",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
             url: "http://audio.kuer.org:8000/high"
         },
@@ -165,7 +161,7 @@
             url: "https://radio.byub.org/classical89/classical89_aac"
         },
         {
-            name: "KUER 90.1",
+            name: "kuer 90.1",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
             url: "http://audio.kuer.org:8000/high"
         },
@@ -209,17 +205,17 @@
             url: "http://stream.xmission.com/kcpw"
         },
         {
-            name: "KUER 90.1",
+            name: "kuer 90.1",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
             url: "http://audio.kuer.org:8000/high"
         },
         {
-            name: "KUER 90.1-HD2",
+            name: "kuer 90.1-HD2",
             logo: "stations/images-america/salt_lake/KUER 90.1-HD2.png",
             url: "https://audio.kuer.org/kuer2high"
         },
         {
-            name: "KUER 90.1-HD3",
+            name: "kuer 90.1-HD3",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
             url: "https://audio.kuer.org/kuer3high"
         },
@@ -346,15 +342,140 @@
     ],
     "st_george": [
         {
-            name: "",
-            logo: "stations/images-america/st_george/",
-            url: ""
+            name: "Utah Public Radio 90.9",
+            logo: "stations/images-america/0_general_logos/UPR.png",
+            url: "http://uprxstreamer.usu.edu:8000/stream"
+        },
+        {
+            name: "Radio Dixie 91.3",
+            logo: "stations/images-america/st_george/Radio Dixie 91.3.png",
+            url: "http://144.38.45.26:1935/kxds.mp3"
+        },
+        {
+            name: "News Radio KDXU 94.9",
+            logo: "stations/images-america/st_george/News Radio KDXU 94.9.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kdxuamaac-ibc4"
+        },
+        {
+            name: "95.9 The Hawk",
+            logo: "stations/images-america/st_george/95.9 The Hawk.png",
+            url: "https://ice10.securenetsystems.net/KZHK"
+        },
+        {
+            name: "La Campesina 96.7",
+            logo: "stations/images-america/st_george/La Campesina 96.7.png",
+            url: "https://ice42.securenetsystems.net/KYLI"
+        },
+        {
+            name: "Kool 98.9",
+            logo: "stations/images-america/st_george/Kool 98.9.png",
+            url: "http://ice10.securenetsystems.net/KRQX"
+        },
+        {
+            name: "99.9 KONY Country",
+            logo: "stations/images-america/st_george/99.9 KONY Country.png",
+            url: "https://ice10.securenetsystems.net/KONY2"
+        },
+        {
+            name: "Radio St. George 100.3",
+            logo: "stations/images-america/st_george/Radio St. George 100.3.png",
+            url: "http://144.38.45.26:1936/kdxi.mp3"
+        },
+        {
+            name: "EstereoUnica 101.1",
+            logo: "stations/images-america/st_george/EstereoUnica 101.1.png",
+            url: "http://208.65.2.106:8000/EstereoUnicaEnVivo"
+        },
+        {
+            name: "102.3 Coyote Country",
+            logo: "stations/images-america/st_george/102.3 Coyote Country.png",
+            url: "http://ice10.securenetsystems.net/KUTQ"
+        },
+        {
+            name: "Sunny 101.5",
+            logo: "stations/images-america/st_george/Sunny 101.5.png",
+            url: "https://ice10.securenetsystems.net/KCLS"
+        },
+        {
+            name: "96X 101.5-HD2",
+            logo: "stations/images-america/st_george/96X.png",
+            url: "https://ice41.securenetsystems.net/KCLSHD2"
+        },
+        {
+            name: "Juan 106 101.5-HD3",
+            logo: "stations/images-america/st_george/Juan 106.png",
+            url: "https://ice41.securenetsystems.net/KCLSHD3"
+        },
+        {
+            name: "Mix 103.1",
+            logo: "stations/images-america/st_george/Mix 103.1.png",
+            url: "http://ice10.securenetsystems.net/KURR"
+        },
+        {
+            name: "Zion 104.1",
+            logo: "stations/images-america/st_george/Zion 104.1.png",
+            url: "http://ice24.securenetsystems.net/KZYN"
+        },
+        {
+            name: "KJUL 104.7",
+            logo: "stations/images-america/st_george/KJUL 104.7.png",
+            url: "https://ic1.sslstream.com/kjul-fm"
+        },
+        {
+            name: "Planet 105.1",
+            logo: "stations/images-america/cedar_city/Planet 105.1.png",
+            url: "https://ice10.securenetsystems.net/KPLD"
+        },
+        {
+            name: "Smooth Jazz Utah 105.7",
+            logo: "stations/images-america/st_george/Smooth Jazz Utah 105.7.png",
+            url: "http://broadcaster.smoothjazzutah.com:8000/kwbr"
+        },
+        {
+            name: "107.3 Big Kickin' Country",
+            logo: "stations/images-america/cedar_city/Big Kickin' Country 94.9.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kcinfmaac-ibc4"
+        },
+        {
+            name: "St George News Radio 1450",
+            logo: "stations/images-america/st_george/St George News Radio 1450.png",
+            url: "http://ice10.securenetsystems.net/KZNU2"
         },
     ],
     "vernal": [
         {
-            name: "",
-            logo: "stations/images-america/vernal/",
-            url: ""
+            name: "Utah Public Radio 88.5",
+            logo: "stations/images-america/0_general_logos/UPR.png",
+            url: "http://uprxstreamer.usu.edu:8000/stream"
+        },
+        {
+            name: "kuer 89.3",
+            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
+            url: "http://audio.kuer.org:8000/high"
+        },
+        {
+            name: "Channel X94",
+            logo: "stations/images-america/vernal/Channel X94.png",
+            url: "http://channelx94.com:9302/;"
+        },
+        {
+            name: "The Fox 98.5",
+            logo: "stations/images-america/vernal/The Fox 98.5.png",
+            url: "http://ashley.leanstream.co/KIFXFM"
+        },
+        {
+            name: "Newstalk KVEL 104.5",
+            logo: "stations/images-america/vernal/Newstalk KVEL 104.5.png",
+            url: "https://live.leanstream.co/KVELAM"
+        },
+        {
+            name: "Eagle Country 105.5",
+            logo: "stations/images-america/vernal/Eagle Country 105.5.png",
+            url: "http://live.leanstream.co/KLCYFM-MP3"
+        },
+        {
+            name: "KNEU AM 1250",
+            logo: "stations/images-america/vernal/KNEU AM 1250.png",
+            url: "http://media2.stratanet.com:1935/kneu/mylivestream_aac/playlist.m3u8"
         },
     ],
