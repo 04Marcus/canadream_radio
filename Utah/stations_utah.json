@@ -115,6 +115,11 @@
             url: "http://tektite.streamguys1.com:5450/live"
         },
         {
+            name: "95.3 The Peak",
+            logo: "stations/images-america/moab/95.3 The Peak.png",
+            url: "http://204.141.167.19:7190/stream"
+        },
+        {
             name: "Red Rock 92 - 101.5 FM",
             logo: "stations/images-america/moab/Redrock 92.png",
             url: "http://162.244.80.106:9068/stream"
@@ -405,6 +410,11 @@
             name: "Juan 106 101.5-HD3",
             logo: "stations/images-america/st_george/Juan 106.png",
             url: "https://ice41.securenetsystems.net/KCLSHD3"
+        },
+		{
+            name: "Dave FM 101.9",
+            logo: "stations/images-america/st_george/Dave FM 101.9.png",
+            url: "http://stream.abacast.net/direct/cherrycreek-kxfffmaac-ibc4"
         },
         {
             name: "Mix 103.1",
