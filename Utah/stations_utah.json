@@ -272,7 +272,7 @@
         {
             name: "NOW 97.9!",
             logo: "stations/images-america/salt_lake/NOW 97.9!.png",
-            url: "http://crystalout.surfernetwork.com:8001/KBZN_MP3"
+            url: "https://ais-sa3.cdnstream1.com/2283_96.aac"
         },
         {
             name: "VFX 98.3",
