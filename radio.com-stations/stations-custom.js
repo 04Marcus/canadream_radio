@@ -94,7 +94,7 @@ var stations_custom = {
     "sacramento": [
         {
             name: "ALT 94.7",
-            logo: "stations/images-america/00_radio.com/102.5 KSFM.png",
+            logo: "stations/images-america/00_radio.com/ALT 94.7.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKDOFM_SC"
         },
         {
