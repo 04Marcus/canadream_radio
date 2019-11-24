@@ -25,6 +25,11 @@ var stations_custom = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMXBFM_SC"
         },
         {
+            name: "ChannelQ 94.1-HD2",
+            logo: "stations/images-america/00_radio.com/ChannelQ.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2_SC"
+        },
+        {
             name: "98.5 KLUC",
             logo: "stations/images-america/00_radio.com/98.5 KLUC.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLUCFM_SC"
@@ -39,6 +44,11 @@ var stations_custom = {
             logo: "stations/images-america/00_radio.com/Q100.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXQQFM_SC"
         },
+        {
+            name: "X107.5",
+            logo: "stations/images-america/00_radio.com/X107.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXTEFM_SC"
+        },
     ],
     "los_angeles": [
         {
@@ -46,12 +56,39 @@ var stations_custom = {
             logo: "stations/images-america/00_radio.com/97.1 AMP Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPFM_SC"
         },
+        {
+            name: "ChannelQ 97.1-HD2",
+            logo: "stations/images-america/00_radio.com/ChannelQ.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2_SC"
+        },
     ],
     "phoenix": [
         {
             name: "LIVE 101.5",
             logo: "stations/images-america/00_radio.com/LIVE 101.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KALVFM_SC"
+        },
+        {
+            name: "ChannelQ 101.5-HD2",
+            logo: "stations/images-america/00_radio.com/ChannelQ.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2_SC"
+        },
+    ],
+    "portland": [
+        {
+            name: "97.1 Charlie FM",
+            logo: "stations/images-america/00_radio.com/97.1 Charlie FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KYCHFM_SC"
+        },
+        {
+            name: "105.1 The Buzz",
+            logo: "stations/images-america/00_radio.com/105.1 The Buzz.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRSKFM_SC"
+        },
+        {
+            name: "ChannelQ 105.1-HD2",
+            logo: "stations/images-america/00_radio.com/ChannelQ.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2_SC"
         },
     ],
     "sacramento": [
@@ -85,6 +122,11 @@ var stations_custom = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLLCFM_SC"
         },
         {
+            name: "ChannelQ 97.3-HD2",
+            logo: "stations/images-america/00_radio.com/ChannelQ.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2_SC"
+        },
+        {
             name: "99.7 NOW",
             logo: "stations/images-america/00_radio.com/99.7 NOW.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMVQFM_SC"
@@ -95,6 +137,21 @@ var stations_custom = {
             name: "94.1 The Sound",
             logo: "stations/images-america/00_radio.com/94.1 The Sound.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSWDFM_SC"
+        },
+        {
+            name: "Hot 103.7",
+            logo: "stations/images-america/00_radio.com/Hot 103.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHTPFM_SC"
+        },
+        {
+            name: "The Mountain 103.7-HD2",
+            logo: "stations/images-america/00_radio.com/The Mountain 103.7-HD2.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHTPHD2_SC"
+        },
+        {
+            name: "ChannelQ 107.7-HD2",
+            logo: "stations/images-america/00_radio.com/ChannelQ.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2_SC"
         },
     ],
 };
